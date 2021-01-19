@@ -1,7 +1,7 @@
 ---
 title: adKnowva DASHBOARD
 subtitle: ''
-date: '2017-04-26'
+date: '2017-04-15'
 thumb_image: images/4_thumb.jpg
 thumb_image_alt: A table tennis racket on a pink background
 image: images/4.jpg
