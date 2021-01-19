@@ -6,7 +6,7 @@ date: '2016-04-15'
 thumb_image_alt: heidi web
 image_alt: lorem-ipsum
 template: project
-thumb_image: /images/thumbnail_11_HeidiWeb.gif
+thumb_image: /images/thumbnail_12_HeidiDashboard.png
 ---
 ## Lorem ipsum
 
