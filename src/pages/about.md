@@ -42,15 +42,18 @@ Web & App Design/Computer Programming
 <td>Adobe Photoshop</td>  
 <td>Adobe illustrator</td>  
 <td>Adobe XD</td>  
-<td>MySQL</td>  
+</tr>  
+<tr>  
+<td>HTML5</td>  
+<td>CSS</td>  
+<td>Javascript</td>  
 </tr>  
 </tbody>  
 <tfoot>  
 <tr>  
-<td>C</td>  
+<td>Node.js</td>  
+<td>MySQL</td>  
 <td>C++</td>  
-<td>Javascript, Node.js</td>  
-<td>HTML5, CSS</td>  
 </tr>  
 </tfoot>  
 </table>
