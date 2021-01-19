@@ -2,7 +2,7 @@
 title: DEA-GU GYEONGBUK ENGLISH VILLAGE MOBILE
 subtitle: Mobile Web Application
 excerpt: ''
-date: '2016-05-24'
+date: '2016-03-24'
 thumb_image_alt: dgev mobile
 image_alt: lorem-ipsum
 template: project
