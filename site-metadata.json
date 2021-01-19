@@ -57,19 +57,19 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
                 "style": "icon",
-                "icon_class": "fa-twitter",
+                "icon_class": "fa-instagram",
                 "new_window": true
             },
             {
                 "type": "action",
                 "template": "action",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "label": "Twitter",
+                "url": "https://twitter.com/",
                 "style": "icon",
-                "icon_class": "fa-instagram",
+                "icon_class": "fa-twitter",
                 "new_window": true
             },
             {
