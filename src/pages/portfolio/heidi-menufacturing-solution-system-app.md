@@ -1,7 +1,7 @@
 ---
 title: HEIDI MENUFACTURING SOLUTION SYSTEM APP
 subtitle: Apps
-excerpt: lorem-ipsum
+excerpt: ''
 date: '2021-01-19'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
