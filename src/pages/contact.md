@@ -5,10 +5,10 @@ sections:
   - type: section_form
     template: section_form
     section_id: contact-form
-    content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+    content: >
+      I'm looking for new opportunities! If you are interested in my works or
+      blog posts, please contact me at
+      [kangyeon.lee.alicia@gmail.com](mailto:example@example.com).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
