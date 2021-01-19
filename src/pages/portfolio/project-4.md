@@ -37,6 +37,8 @@ This web application is managing that controls the advertisement business. Using
 </tfoot>
 </table>
 
+![](/images/empty_250.png)
+
 ##### THE PROBLEM
 
 ### How to manage many amounts of advertisement and the profits are related to?
@@ -46,7 +48,7 @@ This web application is managing that controls the advertisement business. Using
 Each client request many amounts of advertisements to adKnowva.
 ad Knowva has a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices.
 
-***
+![](/images/empty_250.png)
 
 ##### THE SOLUTION
 
@@ -56,7 +58,7 @@ Our team decided to design a dashboard that efficiently manages the controlling 
 
 ![](/images/03_adknowva_thesoultion_02.gif)
 
-***
+![](/images/empty_250.png)
 
 ##### THE PROCESS
 
@@ -66,5 +68,11 @@ Our goal at ad Knowva was totally simplified to all control together on the dash
 ![](/images/03_adknowva_theprocess_01.gif)  
 Conveniently check out lists of advertisements which an admin was added at once.
 
+![](/images/empty.png)
+
 ![](/images/03_adknowva_theprocess_02.gif)  
 Conveniently check out lists of advertisements which an admin was added at once.
+
+![](/images/empty.png)
+
+dd
