@@ -30,7 +30,7 @@ sections:
     subtitle: ''
     layout_style: tiles
     projects_number: 30
-    view_all_label: View All
+    view_all_label: ''
     view_all_url: portfolio
   - type: section_grid
     template: section_grid
