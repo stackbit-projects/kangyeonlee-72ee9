@@ -2,7 +2,7 @@
 title: SAINT MARK CHURCH
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
-date: '2015-10-19'
+date: '2015-10-31'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 template: project
