@@ -1,6 +1,6 @@
 ---
 title: Resume
-subtitle: lorem-ipsum
+subtitle: ''
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
 template: page
