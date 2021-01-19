@@ -1,7 +1,7 @@
 ---
 title: 'Nice to meet you-This is Kangyeon :)'
 subtitle: I love design and programming!
-image: images/about.jpg
+image: /images/0120.png
 image_alt: A man taking a picture
 template: page
 ---
