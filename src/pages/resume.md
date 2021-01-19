@@ -3,7 +3,7 @@ template: page
 title: Resume
 subtitle: ''
 excerpt: ''
-image: ''
+image: "/images/gangyeon-lee_resume.png"
 image_alt: ''
 
 ---
