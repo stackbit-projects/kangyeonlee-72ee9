@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsumHEIDI MENUFACTURING SOLUTION SYSTEM DASHBOARD
+title: HEIDI MENUFACTURING SOLUTION SYSTEM DASHBOARD
 subtitle: Web Application
 excerpt: ''
 date: '2016-04-15'
