@@ -1,7 +1,7 @@
 ---
 title: SAINT MARK CHURCH
 subtitle: Web Application
-excerpt: lorem-ipsum
+excerpt: ''
 date: '2015-10-31'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
