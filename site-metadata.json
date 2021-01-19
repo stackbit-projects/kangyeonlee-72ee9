@@ -51,7 +51,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "/images/kyl_logo.png"
     },
     "footer": {
         "type": "footer",
