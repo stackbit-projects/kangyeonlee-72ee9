@@ -65,12 +65,16 @@ Our team decided to design a dashboard that efficiently manages the controlling 
 ### How it manages all advertisements and the profit would check clearly and simplify.  
 Our goal at ad Knowva was totally simplified to all control together on the dashboard.
 
-![](/images/03_adknowva_theprocess_01.gif)  
+![](/images/empty_100.png)
+
+![](/images/03_adknowva_theprocess_01.gif)
+
 Conveniently check out lists of advertisements which an admin was added at once.
 
 ![](/images/empty.png)
 
-![](/images/03_adknowva_theprocess_02.gif)  
+![](/images/03_adknowva_theprocess_02.gif)
+
 Conveniently check out lists of advertisements which an admin was added at once.
 
 ![](/images/empty.png)
