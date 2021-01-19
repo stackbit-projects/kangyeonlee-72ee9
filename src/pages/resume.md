@@ -2,7 +2,7 @@
 title: Resume
 subtitle: ''
 excerpt: ''
-image_alt: lorem-ipsum
+image_alt: ''
 template: page
 ---
 ## Lorem ipsum
