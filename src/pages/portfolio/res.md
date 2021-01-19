@@ -6,6 +6,7 @@ date: '2021-01-19'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 template: project
+thumb_image: /images/thumbnail_01_webNovelApp.png
 ---
 ## Lorem ipsum
 
