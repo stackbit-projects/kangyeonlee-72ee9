@@ -2,7 +2,7 @@
 title: HUVLE WEB BROWSER
 subtitle: ''
 date: '2017-04-03'
-thumb_image: images/5_thumb.jpg
+thumb_image: /images/thumbnail_09_huvleBrowser.png
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
 image_alt: A white gamepad on a green background
