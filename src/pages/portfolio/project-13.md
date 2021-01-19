@@ -1,6 +1,6 @@
 ---
 title: YIYF
-subtitle: lorem-ipsum
+subtitle: Web Application
 excerpt: lorem-ipsum
 date: '2021-01-19'
 thumb_image_alt: lorem-ipsum
