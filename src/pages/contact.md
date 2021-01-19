@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 'I hope we can keep in touch :)'
 hide_title: false
 sections:
   - type: section_form
