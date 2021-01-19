@@ -5,22 +5,11 @@ image: /images/0120.png
 image_alt: A man taking a picture
 template: page
 ---
-\<table>
-  \<tbody>
-    \<tr>
-      \<td>Passionate Doer\</td>
-      \<td>Excellent Time Manager\</td>
-    \</tr>
-  \</tbody>
-  \<tfoot>
-    \<tr>
-      \<td>Critical Thinker\</td>
-      \<td>Fast Learner\</td>
-    \</tr>
-  \</tfoot>
-\</table>
+##### \<table>&#xA;  \<tbody>&#xA;    \<tr>&#xA;      \<td>Passionate Doer\</td>&#xA;      \<td>Excellent Time Manager\</td>&#xA;    \</tr>&#xA;  \</tbody>&#xA;  \<tfoot>&#xA;    \<tr>&#xA;      \<td>Critical Thinker\</td>&#xA;      \<td>Fast Learner\</td>&#xA;    \</tr>&#xA;  \</tfoot>&#xA;\</table>
 
-##### **MY BACKGROUND**
+****
+
+**MY BACKGROUND**
 
 Web & App Design/Computer Programming
 
