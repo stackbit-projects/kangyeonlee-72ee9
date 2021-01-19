@@ -6,4 +6,4 @@ excerpt: ''
 image: /images/gangyeon-lee_resume.png
 image_alt: ''
 ---
-****
+***
