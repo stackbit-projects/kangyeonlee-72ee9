@@ -1,6 +1,6 @@
 ---
 title: ''
-hide_title: false
+hide_title: true
 sections:
   - type: section_hero
     template: section_hero
