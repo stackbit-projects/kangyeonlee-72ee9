@@ -8,7 +8,7 @@ sections:
     content: >
       I'm looking for new opportunities! If you are interested in my works or
       blog posts, please contact me at
-      [kangyeon.lee.alicia@gmail.com](mailto:example@example.com).
+      [kangyeon.lee.alicia@gmail.com](mailto:example@example.com)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
