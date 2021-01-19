@@ -46,7 +46,9 @@ Web & App Design/Computer Programming
 </tbody>  
 <tfoot>  
 <tr>  
-<td>MySQL, C, C++</td>  
+<td>MySQL</td>  
+<td>C</td>  
+<td>C++</td>  
 <td>Javascript, Node.js</td>  
 <td>HTML5, CSS</td>  
 </tr>  
