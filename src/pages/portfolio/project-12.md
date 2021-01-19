@@ -6,6 +6,7 @@ date: '2016-10-25'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 template: project
+thumb_image: /images/neat-jupiter.gif
 ---
 ## Lorem ipsum
 
