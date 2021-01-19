@@ -37,8 +37,6 @@ This web application is managing that controls the advertisement business. Using
 </tfoot>
 </table>
 
-***
-
 #### THE PROBLEM
 
 How to manage many amounts of advertisement and the profits are related to?
