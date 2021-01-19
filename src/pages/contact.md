@@ -10,7 +10,7 @@ sections:
 
 '
   form_id: contactForm
-  form_action: ''
+  form_action: "/thank-you"
   form_fields:
   - type: form_field
     template: form_field
