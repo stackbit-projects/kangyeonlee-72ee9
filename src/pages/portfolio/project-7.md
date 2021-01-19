@@ -1,6 +1,6 @@
 ---
 title: WEB-NOVEL VIEWER
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2018-01-15'
 thumb_image: images/7_thumb.jpg
 thumb_image_alt: A black headphones on a yeallow background
