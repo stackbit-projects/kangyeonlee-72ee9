@@ -12,6 +12,7 @@ sections:
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
         type: testimonial
+        avatar: /images/thumbnail_01_webNovelApp.png
     type: section_testimonials
     template: section_testimonials
 template: advanced
