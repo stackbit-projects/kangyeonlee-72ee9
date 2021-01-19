@@ -1,6 +1,6 @@
 ---
 title: 'Nice to meet you-This is Kangyeon :)'
-subtitle: This is a short page about us and our work.
+subtitle: I love design and programming!
 image: images/about.jpg
 image_alt: A man taking a picture
 template: page
