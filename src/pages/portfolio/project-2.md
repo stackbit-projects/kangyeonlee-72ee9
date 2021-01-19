@@ -2,7 +2,7 @@
 title: HUVLE OFFICIAL WEB
 subtitle: ''
 date: '2017-05-17'
-thumb_image: images/2_thumb.jpg
+thumb_image: /images/thumbnail_02_huvleWeb.gif
 thumb_image_alt: huvle web
 image: images/2.jpg
 image_alt: An orange on a blue background
