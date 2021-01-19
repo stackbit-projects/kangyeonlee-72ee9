@@ -1,7 +1,7 @@
 ---
 title: WEB-NOVLE VIEWER APP
 subtitle: ''
-date: '2017-02-18'
+date: '2017-02-10'
 thumb_image: images/6_thumb.jpg
 thumb_image_alt: A handheld game console on a yellow background
 image: images/6.jpg
