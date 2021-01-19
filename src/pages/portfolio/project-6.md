@@ -3,7 +3,7 @@ title: WEB-NOVLE VIEWER APP
 subtitle: ''
 date: '2017-02-10'
 thumb_image: /images/cool-sparrow.png
-thumb_image_alt: A handheld game console on a yellow background
+thumb_image_alt: web
 image: images/6.jpg
 image_alt: A handheld game console on a yellow background
 template: project
