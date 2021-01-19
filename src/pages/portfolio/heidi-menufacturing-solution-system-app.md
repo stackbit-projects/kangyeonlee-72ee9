@@ -2,7 +2,7 @@
 title: HEIDI MENUFACTURING SOLUTION SYSTEM APP
 subtitle: Apps
 excerpt: ''
-date: '2016-06-15'
+date: '2016-06-03'
 thumb_image_alt: heidi apps
 image_alt: lorem-ipsum
 template: project
