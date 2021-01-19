@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: HEIDI MENUFACTURING SOLUTION SYSTEM APP
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 date: '2021-01-19'
