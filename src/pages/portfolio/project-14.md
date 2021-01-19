@@ -6,6 +6,7 @@ date: '2015-10-31'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 template: project
+thumb_image: /images/thumbnail_09_marco_church.png
 ---
 ## Lorem ipsum
 
