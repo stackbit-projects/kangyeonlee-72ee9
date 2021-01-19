@@ -6,6 +6,7 @@ date: '2015-12-06'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 template: project
+thumb_image: /images/thumbnail_06_huvleWeb.png
 ---
 ## Lorem ipsum
 
