@@ -7,6 +7,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 template: project
 thumb_image: /images/thumbnail_01_webNovelApp.png
+image: /images/thumbnail_01_webNovelApp.png
 ---
 ## Lorem ipsum
 
