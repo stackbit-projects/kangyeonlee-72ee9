@@ -96,5 +96,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "favicon": "/images/favicon_ky.png"
 }
