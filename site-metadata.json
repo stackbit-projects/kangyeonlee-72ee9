@@ -36,13 +36,6 @@
                 "label": "ABOUT",
                 "url": "/about/",
                 "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
             }
         ],
         "logo_img": "/images/kyl_logo.png",
