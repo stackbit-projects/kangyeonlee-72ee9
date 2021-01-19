@@ -10,10 +10,10 @@ template: project
 excerpt: ''
 
 ---
-This web application is managing that controls the advertisement business. Using a dashboard to distinguish statistics also can manage the profit of advertisements.  
-  
+This web application is managing that controls the mobile advertisement business. Using a dashboard to distinguish statistics also can manage the profit of advertisements.
+
 <table>
-<thead>    
+<thead>  
 </thead>
 <tbody>
 <tr>
@@ -39,7 +39,7 @@ This web application is managing that controls the advertisement business. Using
 
 ![](/images/empty_250.png)
 
-##### THE PROBLEM
+##### PROJECT OVERVIEW
 
 ### How to manage many amounts of advertisement and the profits are related to?
 
@@ -47,6 +47,13 @@ This web application is managing that controls the advertisement business. Using
 
 Each client request many amounts of advertisements to adKnowva.
 ad Knowva has a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices.
+
+![](/images/empty_100.png)
+
+##### THE PROBLEM
+
+1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device.
+2. Difficult to distinguish what size of mobile advertisements from each client request.
 
 ![](/images/empty_250.png)
 
@@ -62,7 +69,8 @@ Our team decided to design a dashboard that efficiently manages the controlling 
 
 ##### THE PROCESS
 
-### How it manages all advertisements and the profit would check clearly and simplify.  
+### How it manages all advertisements and the profit would check clearly and simplify.
+
 Our goal at ad Knowva was totally simplified to all control together on the dashboard.
 
 ![](/images/empty_100.png)
