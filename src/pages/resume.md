@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-hide_title: false
+hide_title: true
 excerpt: lorem-ipsum
 sections:
   - title: dd
