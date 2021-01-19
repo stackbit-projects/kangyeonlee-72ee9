@@ -3,7 +3,7 @@ title: adKnowva DASHBOARD
 subtitle: ''
 date: '2017-04-15'
 thumb_image: /images/thumbnail_04_adKnovaDashboard.png
-thumb_image_alt: A table tennis racket on a pink background
+thumb_image_alt: adknowva dashboard
 image: images/4.jpg
 image_alt: A table tennis racket on a pink background
 template: project
