@@ -3,7 +3,7 @@ title: HEIDI MENUFACTURING SOLUTION SYSTEM DASHBOARD
 subtitle: Web Application
 excerpt: ''
 date: '2016-04-15'
-thumb_image_alt: heidi web
+thumb_image_alt: heidi dashboard
 image_alt: lorem-ipsum
 template: project
 thumb_image: /images/thumbnail_12_HeidiDashboard.png
