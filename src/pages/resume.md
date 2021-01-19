@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Resume
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
