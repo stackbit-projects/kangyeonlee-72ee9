@@ -3,7 +3,7 @@ title: HUVLE OFFICIAL WEB
 subtitle: ''
 date: '2017-05-17'
 thumb_image: images/2_thumb.jpg
-thumb_image_alt: An orange on a blue background
+thumb_image_alt: 'huvle '
 image: images/2.jpg
 image_alt: An orange on a blue background
 template: project
