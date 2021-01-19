@@ -5,7 +5,7 @@ image: /images/0120.png
 image_alt: A man taking a picture
 template: page
 ---
-**TYPE**\<table>
+\<table>
   \<tbody>
     \<tr>
       \<td>Passionate Doer\</td>
