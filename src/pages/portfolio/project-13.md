@@ -3,7 +3,7 @@ title: YIYF
 subtitle: Web Application
 excerpt: ''
 date: '2015-12-06'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: yiyf web
 image_alt: lorem-ipsum
 template: project
 thumb_image: /images/thumbnail_06_huvleWeb.png
