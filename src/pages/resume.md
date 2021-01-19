@@ -1,9 +1,14 @@
 ---
-title: lorem-ipsum
+title: Resume
 subtitle: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: ''
 image_alt: lorem-ipsum
 template: page
+hide_title: true
+sections:
+- template: section_content
+  type: section_content
+
 ---
 ## Lorem ipsum
 
