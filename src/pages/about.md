@@ -1,15 +1,37 @@
 ---
-title: 'Nice to meet you-This is Kangyeon :)'
+title: Nice to meet you-This is Kangyeon :)
 subtitle: I love design and programming!
-image: /images/0120.png
+image: "/images/0120.png"
 image_alt: A man taking a picture
 template: page
+excerpt: ''
+
 ---
+## Tables
 
+<table>  
+<caption>Table with thead, tfoot, and tbody</caption>   
+<thead>  
+<tr>   
+<th>Header content 1</th>   
+<th>Header content 2</th>   
+</tr>   
+</thead>   
+<tbody>   
+<tr>   
+<td>Body content 1</td>   
+<td>Body content 2</td>   
+</tr>   
+</tbody>   
+<tfoot>   
+<tr>   
+<td>Footer content 1</td>   
+<td>Footer content 2</td>   
+</tr>   
+</tfoot>   
+</table>
 
-***
-
-**MY BACKGROUND**
+##### **MY BACKGROUND**
 
 Web & App Design/Computer Programming
 
@@ -21,22 +43,22 @@ Web & App Design/Computer Programming
 
 ##### **Table**
 
-\<table>
-\<tbody>
-\<tr>
-\<td>Adobe Photoshop\</td>
-\<td>Adobe illustrator\</td>
-\<td>Adobe XD\</td>
-\</tr>
-\</tbody>
-\<tfoot>
-\<tr>
-\<td>MySQL\</td>
-\<td>Javascript, Node.js\</td>
-\<td>HTML5, CSS\</td>
-\</tr>
-\</tfoot>
-\</table>
+<table>
+<tbody>
+<tr>
+<td>Adobe Photoshop</td>
+<td>Adobe illustrator</td>
+<td>Adobe XD</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td>MySQL</td>
+<td>Javascript, Node.js</td>
+<td>HTML5, CSS</td>
+</tr>
+</tfoot>
+</table>
 
 Adobe Photoshop / Adobe illustrator / Adobe XD / C / C++ / SQL / MySQL / Javascript / HTML5 / CSS / Java / Node.js
 
