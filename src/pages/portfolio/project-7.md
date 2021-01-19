@@ -3,7 +3,7 @@ title: WEB-NOVEL VIEWER
 subtitle: ''
 date: '2016-12-18'
 thumb_image: /images/thumbnail_02_webNovelWeb_2.png
-thumb_image_alt: 'web novle '
+thumb_image_alt: web novle web
 image: images/7.jpg
 image_alt: A black headphones on a yeallow background
 template: project
