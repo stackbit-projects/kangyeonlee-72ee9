@@ -1,7 +1,9 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: News, tips and highlights
 hide_title: false
-col_number: three
+col_number: two
 template: blog
+excerpt: ''
+
 ---
