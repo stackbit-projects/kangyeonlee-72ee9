@@ -7,28 +7,23 @@ template: page
 excerpt: ''
 
 ---
-## Tables
+##### TYPE
 
 <table>  
-<caption>Table with thead, tfoot, and tbody</caption>   
 <thead>  
-<tr>   
-<th>Header content 1</th>   
-<th>Header content 2</th>   
-</tr>   
-</thead>   
-<tbody>   
-<tr>   
-<td>Body content 1</td>   
-<td>Body content 2</td>   
-</tr>   
-</tbody>   
-<tfoot>   
-<tr>   
-<td>Footer content 1</td>   
-<td>Footer content 2</td>   
-</tr>   
-</tfoot>   
+</thead>  
+<tbody>  
+<tr>  
+<td>Passionate Doer</td>  
+<td>Excellent Time Manager</td>  
+</tr>  
+</tbody>  
+<tfoot>  
+<tr>  
+<td>Critical Thinker</td>  
+<td>Fast Learner</td>  
+</tr>  
+</tfoot>  
 </table>
 
 ##### **MY BACKGROUND**
