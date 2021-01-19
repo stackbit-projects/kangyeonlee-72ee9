@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: ''
 image_alt: Thank You Led Signage
 template: page
 ---
