@@ -3,7 +3,7 @@ title: HEIDI MENUFACTURING SOLUTION SYSTEM INTRODUCING SITE
 subtitle: Web Application
 excerpt: ''
 date: '2016-10-25'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: heidi web
 image_alt: lorem-ipsum
 template: project
 thumb_image: /images/neat-jupiter.gif
