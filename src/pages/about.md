@@ -1,11 +1,10 @@
 ---
-title: Nice to meet you-This is Kangyeon :)
+title: Nice to meet you-
 subtitle: I love design and programming!
-image: "/images/0120.png"
+image: /images/0120.png
 image_alt: A man taking a picture
 template: page
 excerpt: ''
-
 ---
 **![](/images/empty.png)**
 
