@@ -3,7 +3,6 @@ title: Thank You!
 image_alt: Thank You Led Signage
 template: page
 ---
+Thank you for contacting me! Kangyeon will get back in touch with you soon.
 
-Thank you for contacting us! We will get back in touch with you soon.
-
-**Have a great day!**
+**Have a good one!**
