@@ -3,7 +3,7 @@ title: lorem-ipsumHEIDI MENUFACTURING SOLUTION SYSTEM DASHBOARD
 subtitle: Web Application
 excerpt: ''
 date: '2016-04-15'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: heidi web
 image_alt: lorem-ipsum
 template: project
 thumb_image: /images/thumbnail_11_HeidiWeb.gif
