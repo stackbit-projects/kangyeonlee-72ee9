@@ -7,17 +7,17 @@ template: page
 ---
 \<table>
   \<tbody>
-\<tr>
-\<td>Passionate Doer\</td>
-\<td>Excellent Time Manager\</td>
-\</tr>
-\</tbody>
-\<tfoot>
-\<tr>
-\<td>Critical Thinker\</td>
-\<td>Fast Learner\</td>
-\</tr>
-\</tfoot>
+    \<tr>
+      \<td>Passionate Doer\</td>
+      \<td>Excellent Time Manager\</td>
+    \</tr>
+  \</tbody>
+  \<tfoot>
+    \<tr>
+      \<td>Critical Thinker\</td>
+      \<td>Fast Learner\</td>
+    \</tr>
+  \</tfoot>
 \</table>
 
 ##### **MY BACKGROUND**
