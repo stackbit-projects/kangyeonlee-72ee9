@@ -6,9 +6,17 @@ sections:
     template: section_hero
     title: 'Hello, I am Kangyeon Lee!'
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I am a curious individual, a human observer, a team’s pencil sharpener,
+      and a UI designer.
+
+      I am not a one-woman band, a UI artist, a defensive critiquer, or any kind
+      of egoist.
+
+      I thrive on tackling complex systems and architecture, sweating meaningful
+      details,
+
+      and collaborating with thoughtful makers!
     actions:
       - type: action
         template: action
