@@ -32,6 +32,7 @@ sections:
         name: message
         label: MESSAGE
         default_value: Your message
+        is_required: true
     submit_label: Send Message to Kangyeon
 template: advanced
 ---
