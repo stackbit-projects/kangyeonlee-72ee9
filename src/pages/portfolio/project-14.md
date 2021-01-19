@@ -3,7 +3,7 @@ title: SAINT MARK CHURCH
 subtitle: Web Application
 excerpt: ''
 date: '2015-10-31'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: mark web
 image_alt: lorem-ipsum
 template: project
 thumb_image: /images/thumbnail_09_marco_church.png
