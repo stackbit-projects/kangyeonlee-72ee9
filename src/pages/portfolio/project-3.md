@@ -3,7 +3,7 @@ title: adKnowva OFFICAIL WEB
 subtitle: ''
 date: '2017-05-02'
 thumb_image: /images/thumbnail_04_adKnovaWeb.png
-thumb_image_alt: A yellow retro telephone on a yellow background
+thumb_image_alt: adknowva web
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
 template: project
