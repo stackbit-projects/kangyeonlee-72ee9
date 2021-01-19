@@ -2,7 +2,7 @@
 title: DEA-GU GYEONGBUK ENGLISH VILLAGE
 subtitle: Web Application
 excerpt: ''
-date: '2016-02-19'
+date: '2016-02-20'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 template: project
