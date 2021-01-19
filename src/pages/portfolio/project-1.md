@@ -2,7 +2,7 @@
 title: HUVLE OFFICIAL MOBILE
 subtitle: Optional Project Subtitle
 date: '2017-06-20'
-thumb_image: images/1_thumb.jpg
+thumb_image: /images/thumbnail_08_huvleMobile.gif
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
