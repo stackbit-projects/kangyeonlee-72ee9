@@ -31,7 +31,7 @@ sections:
     layout_style: tiles
     projects_number: 30
     view_all_label: ''
-    view_all_url: portfolio
+    view_all_url: ''
   - type: section_grid
     template: section_grid
     title: What We Do
