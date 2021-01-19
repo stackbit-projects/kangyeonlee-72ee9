@@ -33,5 +33,6 @@ fields:
     required: true
 pages:
 - src/pages/about.md
+- src/pages/resume.md
 - src/pages/style-guide.md
 - src/pages/thank-you.md
