@@ -1,7 +1,7 @@
 ---
 title: HUVLE WEB BROWSER
 subtitle: ''
-date: '2019-01-05'
+date: '2017-04-05'
 thumb_image: images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
