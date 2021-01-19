@@ -6,6 +6,7 @@ date: '2016-05-24'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 template: project
+thumb_image: /images/thumbnail_13_dgevMobileWeb.png
 ---
 ## Lorem ipsum
 
