@@ -52,7 +52,8 @@
                 "style": "link"
             }
         ],
-        "logo_img": "/images/kyl_logo.png"
+        "logo_img": "/images/kyl_logo.png",
+        "logo_img_alt": "ky"
     },
     "footer": {
         "type": "footer",
