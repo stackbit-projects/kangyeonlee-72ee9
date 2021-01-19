@@ -44,6 +44,6 @@ sections:
         template: action
         label: VIEW WORKS
         url: blog
-        style: link
+        style: icon
 template: advanced
 ---
