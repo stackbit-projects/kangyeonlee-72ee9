@@ -4,8 +4,6 @@ title: RESUME
 subtitle: ''
 excerpt: ''
 image: "/images/gangyeon-lee_resume.png"
-image_alt: ''
+image_alt: resume_ky
 
 ---
-  
-![](/images/gangyeon-lee_resume.png)
