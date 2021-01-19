@@ -1,7 +1,7 @@
 ---
 title: Resume
 subtitle: ''
-excerpt: lorem-ipsum
+excerpt: ''
 image_alt: lorem-ipsum
 template: page
 ---
