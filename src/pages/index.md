@@ -42,7 +42,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: View Blog
+        label: 'View '
         url: blog
         style: button
 template: advanced
