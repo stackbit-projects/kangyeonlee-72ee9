@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: dd
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
