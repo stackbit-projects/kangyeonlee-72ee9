@@ -28,7 +28,7 @@ sections:
     title: ''
     section_id: latest-projects
     subtitle: ''
-    layout_style: mosaic
+    layout_style: tiles
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
