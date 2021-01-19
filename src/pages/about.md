@@ -5,6 +5,8 @@ image: /images/0120.png
 image_alt: A man taking a picture
 template: page
 ---
+Tables
+
 \<table>
     \<caption>Table with thead, tfoot, and tbody\</caption>
   \<thead>
@@ -26,10 +28,6 @@ template: page
     \</tr>
   \</tfoot>
 \</table>
-
-
-
-
 
 \<table>
 \<tbody>
