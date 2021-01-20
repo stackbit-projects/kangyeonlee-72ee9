@@ -10,7 +10,7 @@ template: project
 excerpt: ''
 
 ---
-This web application is managing that controls the mobile advertisement business. Using a dashboard to distinguish statistics also can manage the profit of advertisements.
+This web application is managing that controls the web and mobile advertisement business. Using a dashboard to distinguish statistics also can manage the profit of advertisements.
 
 <table>
 <thead>  
@@ -54,9 +54,21 @@ ad Knowva has a lack of managing profit system also has been difficult to contro
 
 ###### 1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device
 
-###### 2. Difficult to distinguish what size of mobile advertisements from each client request
+###### 2. Difficult to distinguish what size of advertisements from each client request
 
 When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
+
+![](/images/empty.png)
+
+##### GOAL
+
+I identified below things I could do to enhance the managing advertisement.
+
+###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
+
+###### 2. Update the layout improves administrators add each advertisement conveniently
+
+###### 3. Update the UI and visual style to improve the readability and brand identity
 
 ![](/images/empty.png)
 
@@ -72,7 +84,7 @@ Our team decided to design a dashboard that efficiently manages the controlling 
 
 ##### THE PROCESS
 
-### How it manages all advertisements and the profit would check clearly and simplify.
+### How it manages all advertisements and the profit would check clearly and simplify
 
 Our goal at ad Knowva was totally simplified to all control together on the dashboard.
 
@@ -87,7 +99,3 @@ Conveniently check out lists of advertisements which an admin was added at once.
 ![](/images/03_adknowva_theprocess_02.gif)
 
 Advertisements size management can also be done, and ad exposure time and availability can also be managed.
-
-![](/images/empty.png)
-
-dd
