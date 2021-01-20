@@ -100,4 +100,8 @@ Conveniently check out lists of advertisements which an admin was added at once.
 
 Advertisements size management can also be done, and ad exposure time and availability can also be managed.
 
-![](/images/adknowva_thesoultion_03.gif)
+![](/images/empty_100.png)
+
+![](/images/adknowva_thesoultion_03_2.gif)
+
+Keep track of advertisements' exposure time can be managed and check out the monthly profit.
