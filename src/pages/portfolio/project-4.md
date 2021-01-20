@@ -34,8 +34,7 @@ This web application is managing that controls the web and mobile advertisement 
 <tfoot>
 <tr>
 <th>KEY SKILLS</th>
-<td>Concept Ideation</td>  
-<td>Interaction Design / Visual Design / Prototyping / Project Management</td>
+<td>Concept Ideation / Interaction Design / Visual Design / Prototyping / Project Management</td>
 </tr>
 </tfoot>
 </table>
@@ -67,11 +66,11 @@ When managing the advertisements, in the existing system, there was difficulty d
 
 I identified below things I could do to enhance the managing advertisement.
 
-###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
+### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
 
-###### 2. Update the layout improves administrators add each advertisement conveniently
+### 2. Update the layout improves administrators add each advertisement conveniently
 
-###### 3. Update the UI and visual style to improve the readability and brand identity
+### 3. Update the UI and visual style to improve the readability and brand identity
 
 ![](/images/empty.png)
 
