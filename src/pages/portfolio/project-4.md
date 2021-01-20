@@ -37,7 +37,7 @@ This web application is managing that controls the mobile advertisement business
 </tfoot>
 </table>
 
-![](/images/empty_250.png)
+![](/images/empty.png)
 
 ##### PROJECT OVERVIEW
 
@@ -52,10 +52,13 @@ ad Knowva has a lack of managing profit system also has been difficult to contro
 
 ##### THE PROBLEM
 
-1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device.
-2. Difficult to distinguish what size of mobile advertisements from each client request.
+###### 1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device
 
-![](/images/empty_250.png)
+###### 2. Difficult to distinguish what size of mobile advertisements from each client request
+
+When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
+
+![](/images/empty.png)
 
 ##### THE SOLUTION
 
@@ -65,7 +68,7 @@ Our team decided to design a dashboard that efficiently manages the controlling 
 
 ![](/images/03_adknowva_thesoultion_02.gif)
 
-![](/images/empty_250.png)
+![](/images/empty.png)
 
 ##### THE PROCESS
 
@@ -83,7 +86,7 @@ Conveniently check out lists of advertisements which an admin was added at once.
 
 ![](/images/03_adknowva_theprocess_02.gif)
 
-Conveniently check out lists of advertisements which an admin was added at once.
+Advertisements size management can also be done, and ad exposure time and availability can also be managed at once.
 
 ![](/images/empty.png)
 
