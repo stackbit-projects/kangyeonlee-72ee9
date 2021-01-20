@@ -86,7 +86,7 @@ Conveniently check out lists of advertisements which an admin was added at once.
 
 ![](/images/03_adknowva_theprocess_02.gif)
 
-Advertisements size management can also be done, and ad exposure time and availability can also be managed at once.
+Advertisements size management can also be done, and ad exposure time and availability can also be managed.
 
 ![](/images/empty.png)
 
