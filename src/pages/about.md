@@ -32,7 +32,16 @@ excerpt: ''
 
 ##### **MY BACKGROUND**
 
-Web & App Design/Computer Programming
+<table>  
+<thead>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Web & Apps UI Design</td>  
+<td>Computer Programmingr</td>  
+</tr>  
+</tbody>  
+</table>
 
 ![](/images/empty_100.png)
 
