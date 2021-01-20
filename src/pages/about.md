@@ -38,7 +38,9 @@ excerpt: ''
 <tbody>  
 <tr>  
 <td>Web & Apps UI Design</td>  
-<td>Computer Programmingr</td>  
+</tr>  
+<tr>  
+<td>Computer Programming</td>  
 </tr>  
 </tbody>  
 </table>
