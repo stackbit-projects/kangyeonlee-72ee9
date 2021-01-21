@@ -10,8 +10,6 @@ template: project
 excerpt: ''
 
 ---
-![](/images/adknowva_thesoultion_04-2.png)
-
 This web application is managing that controls the web and mobile advertisement business. Using a dashboard to distinguish statistics also can manage the profit of advertisements.
 
 ![](/images/empty_150.png)
