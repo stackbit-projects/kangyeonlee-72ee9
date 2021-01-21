@@ -1,5 +1,5 @@
 ---
-title: HUVLE OFFICIAL WEB
+title: HUVLE OFFICIAL SITE
 subtitle: ''
 date: '2017-05-17'
 thumb_image: /images/thumbnail_02_huvleWeb.gif
