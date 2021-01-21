@@ -121,10 +121,20 @@ What if the clients require to question about managing the dashboard, they can u
 
 ##### FINAL DESIGN
 
+In adKnowva admin, a developer can also manage advertisement information as well as merchant lists by adding clients and advertisements. As a result, developers and clients applied the same interaction flow and user interface solutions for profit management.
+
+![](/images/empty_100.png)
+
 ![](/images/final_01.gif)
+
+![](/images/empty_100.png)
 
 ![](/images/final_02.gif)
 
+![](/images/empty_100.png)
+
 ![](/images/final_03.gif)
 
-![](/images/final_04.gif)
+![](/images/empty_100.png)
+
+![](/images/final_04_2.gif)
