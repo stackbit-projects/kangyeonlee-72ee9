@@ -107,8 +107,6 @@ Conveniently check out lists of advertisements which an admin was added at once.
 
 ![](/images/process_04.png)
 
-![](/images/process_05.png)
-
 Keep track of advertisements' exposure time can be managed and check out the monthly profit.
 
 ![](/images/empty_100.png)
