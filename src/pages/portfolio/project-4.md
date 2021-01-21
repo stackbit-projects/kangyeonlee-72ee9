@@ -118,4 +118,4 @@ What if the clients require to question about managing the dashboard, they can u
 
 ##### FINAL DESIGN
 
-![](/images/03_adknowva_dashboard_hero_01_2.png)
+![](/images/adknowva_final_design_01.png)
