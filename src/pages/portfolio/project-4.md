@@ -93,8 +93,6 @@ Our goal at ad Knowva was totally simplified to all control together on the dash
 
 ![](/images/process_01.png)
 
-![](/images/process_02.png)
-
 Advertisements size management can also be done, and ad exposure time and availability can also be managed.
 
 ![](/images/empty_100.png)
