@@ -113,8 +113,6 @@ Keep track of advertisements' exposure time can be managed and check out the mon
 
 ![](/images/empty_100.png)
 
-![](/images/adknowva_thesoultion_04.png)
-
 What if the clients require to question about managing the dashboard, they can upload inquiry on the board page. Then the dashboard admin as a developer can respond immediately.
 
 ![](/images/empty_150.png)
