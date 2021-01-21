@@ -10,9 +10,11 @@ template: project
 excerpt: ''
 
 ---
-![](/images/adknowva_thesoultion_04-2.png)This web application is managing that controls the web and mobile advertisement business. Using a dashboard to distinguish statistics also can manage the profit of advertisements.
+![](/images/adknowva_thesoultion_04-2.png)
 
-![](/images/empty_100.png)
+This web application is managing that controls the web and mobile advertisement business. Using a dashboard to distinguish statistics also can manage the profit of advertisements.
+
+![](/images/empty_150.png)
 
 <table>
 <thead>  
@@ -39,7 +41,7 @@ excerpt: ''
 </tfoot>
 </table>
 
-![](/images/empty.png)
+![](/images/empty_150.png)
 
 ##### PROJECT OVERVIEW
 
@@ -50,7 +52,7 @@ excerpt: ''
 Each client request many amounts of advertisements to adKnowva.
 ad Knowva has a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices.
 
-![](/images/empty_100.png)
+![](/images/empty_150.png)
 
 ##### THE PROBLEM
 
@@ -60,7 +62,7 @@ ad Knowva has a lack of managing profit system also has been difficult to contro
 
 When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
 
-![](/images/empty.png)
+![](/images/empty_150.png)
 
 ##### GOAL
 
@@ -72,7 +74,7 @@ I identified below things I could do to enhance the managing advertisement.
 
 ###### 3. Update the UI and visual style to improve the readability and brand identity
 
-![](/images/empty.png)
+![](/images/empty_150.png)
 
 ##### THE SOLUTION
 
@@ -82,7 +84,7 @@ Our team decided to design a dashboard that efficiently manages the controlling 
 
 ![](/images/03_adknowva_thesoultion_02.gif)
 
-![](/images/empty.png)
+![](/images/empty_150.png)
 
 ##### THE PROCESS
 
@@ -96,7 +98,7 @@ Our goal at ad Knowva was totally simplified to all control together on the dash
 
 Conveniently check out lists of advertisements which an admin was added at once.
 
-![](/images/empty.png)
+![](/images/empty_100.png)
 
 ![](/images/03_adknowva_theprocess_02.gif)
 
@@ -114,7 +116,7 @@ Keep track of advertisements' exposure time can be managed and check out the mon
 
 What if the clients require to question about managing the dashboard, they can upload inquiry on the board page. Then the dashboard admin as a developer can respond immediately.
 
-![](/images/empty.png)
+![](/images/empty_150.png)
 
 ##### FINAL DESIGN
 
