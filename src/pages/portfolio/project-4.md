@@ -87,7 +87,7 @@ I decided to design a dashboard that efficiently manages the controlling adverti
 
 ### How it manages all advertisements and the profit would check clearly and simplify
 
-Our goal at ad Knowva was totally simplified to all control together on the dashboard.
+My goal at ad Knowva was totally simplified to all control together on the dashboard.
 
 ![](/images/empty_100.png)
 
