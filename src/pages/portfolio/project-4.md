@@ -107,7 +107,7 @@ Conveniently check out lists of advertisements which an admin was added at once.
 
 ![](/images/process_04.png)
 
-![](/images/process_05.png)
+![](/images/process_05_2.png)
 
 Keep track of advertisements' exposure time can be managed and check out the monthly profit.
 
@@ -126,3 +126,5 @@ What if the clients require to question about managing the dashboard, they can u
 ![](/images/final_02.gif)
 
 ![](/images/final_03.gif)
+
+![](/images/final_04.gif)
