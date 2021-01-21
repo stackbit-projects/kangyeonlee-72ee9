@@ -10,7 +10,7 @@ template: project
 excerpt: ''
 
 ---
-This web application is managing that controls the web and mobile advertisement business. Using a dashboard to distinguish statistics also can manage the profit of advertisements.
+This web application is managed and controled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
 
 ![](/images/empty_150.png)
 
@@ -47,8 +47,7 @@ This web application is managing that controls the web and mobile advertisement 
 
 ![](/images/03_adknowva_theproblems_01.png)
 
-Each client request many amounts of advertisements to adKnowva.
-ad Knowva has a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices.
+Each client request many amounts of advertisements to adKnowva. They has a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
 
 ![](/images/empty_150.png)
 
@@ -78,7 +77,7 @@ I identified below things I could do to enhance the managing advertisement.
 
 ### Designing a Dashboard
 
-Our team decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
+I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
 
 ![](/images/03_adknowva_thesoultion_02.gif)
 
@@ -92,19 +91,13 @@ Our goal at ad Knowva was totally simplified to all control together on the dash
 
 ![](/images/empty_100.png)
 
-![](/images/03_adknowva_theprocess_01.gif)
-
-Conveniently check out lists of advertisements which an admin was added at once.
-
-![](/images/empty_100.png)
-
 ![](/images/03_adknowva_theprocess_02.gif)
 
 Advertisements size management can also be done, and ad exposure time and availability can also be managed.
 
 ![](/images/empty_100.png)
 
-![](/images/adknowva_thesoultion_03_2.gif)
+Conveniently check out lists of advertisements which an admin was added at once.
 
 Keep track of advertisements' exposure time can be managed and check out the monthly profit.
 
