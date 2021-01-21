@@ -1,6 +1,6 @@
 ---
 title: HUVLE OFFICIAL SITE
-subtitle: Web
+subtitle: 'Web '
 date: '2017-05-17'
 thumb_image: /images/thumbnail_02_huvleWeb.gif
 thumb_image_alt: huvle web
