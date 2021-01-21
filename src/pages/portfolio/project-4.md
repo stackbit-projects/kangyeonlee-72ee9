@@ -10,7 +10,7 @@ template: project
 excerpt: ''
 
 ---
-This web application is managed and controled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
+This web application is managed and controlled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
 
 ![](/images/empty_150.png)
 
@@ -91,7 +91,9 @@ Our goal at ad Knowva was totally simplified to all control together on the dash
 
 ![](/images/empty_100.png)
 
-![](/images/03_adknowva_theprocess_02.gif)
+![](/images/process_01.png)
+
+![](/images/process_02.png)
 
 Advertisements size management can also be done, and ad exposure time and availability can also be managed.
 
