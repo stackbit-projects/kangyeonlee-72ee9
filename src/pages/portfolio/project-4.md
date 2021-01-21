@@ -47,7 +47,7 @@ This web application is managed and controlled that the web, mobile, and apps' a
 
 ![](/images/03_adknowva_theproblems_01.png)
 
-Each client request many amounts of advertisements to adKnowva. They has a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
+Each client request many amounts of advertisements to adKnowva. They have a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
 
 ![](/images/empty_150.png)
 
@@ -113,10 +113,16 @@ Keep track of advertisements' exposure time can be managed and check out the mon
 
 ![](/images/empty_100.png)
 
+![](/images/process_06.png)
+
 What if the clients require to question about managing the dashboard, they can upload inquiry on the board page. Then the dashboard admin as a developer can respond immediately.
 
 ![](/images/empty_150.png)
 
 ##### FINAL DESIGN
 
-![](/images/adknowva_final_design_01.png)
+![](/images/final_01.gif)
+
+![](/images/final_02.gif)
+
+![](/images/final_03.gif)
