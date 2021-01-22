@@ -1,15 +1,16 @@
 ---
 title: HUVLE OFFICIAL SITE
 subtitle: Web Applicaton
-date: '2017-05-17'
-thumb_image: /images/thumbnail_02_huvleWeb.gif
+date: 2017-05-17
+thumb_image: "/images/thumbnail_02_huvleWeb.gif"
 thumb_image_alt: huvle web
-image: /images/thumbnail.png
-image_alt: An orange on a blue background
+image: "/images/thumbnail.png"
+image_alt: huvle site
 template: project
 excerpt: ''
+
 ---
-This web application is managed and controlled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
+This project is intended to introduce the company of HUVLE. Korea based mobile media company which is provided innovative mobile web browser.  The goal is to cooperate with the advertiser to business companies, as well as build an efficient searching browser for smart phone users.
 
 ![](/images/empty_150.png)
 
@@ -19,21 +20,21 @@ This web application is managed and controlled that the web, mobile, and apps' a
 <tbody>  
 <tr>  
 <th>PROJECT TYPE</th>  
-<td>Web application desigin</td>  
+<td>Web & mobile application desigin</td>  
 </tr>  
 <tr>  
 <th>ROLE</th>  
-<td>Project Designer</td>  
+<td>Web UI Designer</td>  
 </tr>  
 <tr>  
 <th>TIMELINE</th>  
-<td>Mar - Apr 2017</td>  
+<td>Apr- May 2017</td>  
 </tr>  
 </tbody>  
 <tfoot>  
 <tr>  
 <th>KEY SKILLS</th>  
-<td>Concept Ideation / Interaction Design / Visual Design / Prototyping / Project Management</td>  
+<td>Concept Ideation / Visual Design / Prototyping / Project Management</td>  
 </tr>  
 </tfoot>  
 </table>
@@ -42,19 +43,21 @@ This web application is managed and controlled that the web, mobile, and apps' a
 
 ##### PROJECT OVERVIEW
 
-### How to manage many amounts of advertisement and the profits are related to?
+### How can be promoted of the benefits of Huvle's browser efficiently to smartphone users?
 
-![](/images/03_adknowva_theproblems_01.png)
+![](/images/detail_02.png)
 
-Each client request many amounts of advertisements to adKnowva. They have a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
+![](/images/detail_03.png)
+
+There was not built introduction site that can promote users an efficient web browser linked to apps provided by Huvle.
 
 ![](/images/empty_150.png)
 
 ##### THE PROBLEM
 
-###### 1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device
+###### 1. An introduction to the direction of the company and an efficient description of the services provided by Huvle
 
-###### 2. Difficult to distinguish what size of advertisements from each client request
+###### 2. There were too many written explanations rather than visual explanations of the business
 
 When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
 
@@ -74,7 +77,7 @@ I identified below things I could do to enhance the managing advertisement.
 
 ##### THE SOLUTION
 
-### Designing a Dashboard
+### Emphasize a service
 
 I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
 
