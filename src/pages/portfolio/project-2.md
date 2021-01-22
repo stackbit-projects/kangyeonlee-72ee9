@@ -10,7 +10,7 @@ template: project
 excerpt: ''
 
 ---
-This project is intended to introduce the company of HUVLE. Korea based mobile media company which is provided innovative mobile web browser.  The goal is to cooperate with the advertiser to business companies, as well as build an efficient searching browser for smart phone users.
+This project is intended to introduce the company of HUVLE. Korea based mobile media company which is provided innovative mobile web browser.  The goal is to cooperate with the advertiser to business companies, as well as build an efficient searching browser for smartphone users.
 
 ![](/images/empty_150.png)
 
@@ -59,23 +59,19 @@ There was not built introduction site that can promote users an efficient web br
 
 ##### THE PROBLEM
 
-###### 1. An introduction to the direction of the company and an efficient description of the services provided by Huvle
+###### An introduction to the direction of the company and an efficient description of the services provided by Huvle
 
-###### 2. There were too many written explanations rather than visual explanations of the business
-
-When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
+There were too many written explanations rather than visual explanations of the business. 
 
 ![](/images/empty_150.png)
 
 ##### GOAL
 
-I identified below things I could do to enhance the managing advertisement.
+I identified below things that I could do to improve the design site.
 
-###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
+###### 1. Update the UI and visual style to improve the readability and brand identity
 
-###### 2. Update the layout improves administrators add each advertisement conveniently
-
-###### 3. Update the UI and visual style to improve the readability and brand identity
+###### 2. Emphasize the feature of web-browser to every devices smartphone users
 
 ![](/images/empty_150.png)
 
@@ -83,7 +79,7 @@ I identified below things I could do to enhance the managing advertisement.
 
 ### Emphasize a service
 
-I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
+I decided to design a site that recognizes Huvle's business at a glance. Focus on visual images for comprehending their platform rather than word explanations.
 
 ![](/images/problem.gif)
 
@@ -91,9 +87,9 @@ I decided to design a dashboard that efficiently manages the controlling adverti
 
 ##### THE PROCESS
 
-### How it manages all advertisements and the profit would check clearly and simplify
+### To Explain the business of Huvle clearly and concisely
 
-My goal at ad Knowva was totally simplified to all control together on the dashboard.
+Introduction of the functionality of Huvle's web browser in many ways certainly, as well as, explains its business in advertising management and promotion with its partners.
 
 ![](/images/empty_100.png)
 
