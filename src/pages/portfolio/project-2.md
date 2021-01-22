@@ -45,9 +45,13 @@ This project is intended to introduce the company of HUVLE. Korea based mobile m
 
 ### How can be promoted of the benefits of Huvle's browser efficiently to smartphone users?
 
+![](/images/empty_100.png)
+
 ![](/images/detail_02.png)
 
 ![](/images/detail_03.png)
+
+![](/images/empty_100.png)
 
 There was not built introduction site that can promote users an efficient web browser linked to apps provided by Huvle.
 
