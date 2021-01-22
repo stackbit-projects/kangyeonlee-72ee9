@@ -5,7 +5,7 @@ date: '2017-04-15'
 thumb_image: /images/thumbnail_04_adKnovaDashboard.png
 thumb_image_alt: adknowva dashboard
 image: /images/thumbnail.png
-image_alt: A table tennis racket on a pink background
+image_alt: adknowva dashboard_2
 template: project
 excerpt: ''
 ---
