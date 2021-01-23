@@ -93,31 +93,19 @@ Introduction of the functionality of Huvle's web browser in many ways certainly,
 
 ![](/images/empty_100.png)
 
-![](/images/process_01.png)
-
-![](/images/process_02.png)
-
-Advertisements size management can also be done, and ad exposure time and availability can also be managed.
+![](/images/process_01-1.png)
 
 ![](/images/empty_100.png)
 
-![](/images/process_03.png)
+![](/images/process_02-1.png)
+
+To explain features of business by an image of what Huvle provides for smartphone users.
+
+![](/images/empty_100.png)
+
+![](/images/process_03-1.png)
 
 Conveniently check out lists of advertisements which an admin was added at once.
-
-![](/images/empty_100.png)
-
-![](/images/process_04.png)
-
-![](/images/process_05_2.png)
-
-Keep track of advertisements' exposure time can be managed and check out the monthly profit.
-
-![](/images/empty_100.png)
-
-![](/images/process_06.png)
-
-What if the clients require to question about managing the dashboard, they can upload inquiry on the board page. Then the dashboard admin as a developer can respond immediately.
 
 ![](/images/empty_150.png)
 
@@ -127,7 +115,7 @@ In adKnowva admin, a developer can also manage advertisement information as well
 
 ![](/images/empty_100.png)
 
-![](/images/final_01.gif)
+![](/images/final_01-1.gif)
 
 ![](/images/empty_100.png)
 
