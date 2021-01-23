@@ -103,18 +103,40 @@ To explain features of business by an image of what Huvle provides for smartphon
 
 ![](/images/empty_100.png)
 
-![](/images/process_03-1.png)
+![](/images/process_03_2.png)
 
-Conveniently check out lists of advertisements which an admin was added at once.
+![](/images/process_04-1.png)
+
+To explain features of web-browser by an image of what Huvle provides for smartphone users.
+
+![](/images/empty_100.png)
+
+![](/images/huvle_process_05.png)
+
+To explain features of business by an image of what Huvle provides.
 
 ![](/images/empty_150.png)
 
 ##### FINAL DESIGN
 
-In adKnowva admin, a developer can also manage advertisement information as well as merchant lists by adding clients and advertisements. As a result, developers and clients applied the same interaction flow and user interface solutions for profit management.
+Huvle's concept is to provide a vast search portal like the expanding universe. I designed a site that can think of images according to the concept.
 
 ![](/images/empty_100.png)
 
 ![](/images/final_01-1.gif)
 
 ![](/images/empty_100.png)
+
+![](/images/final_02-1.gif)
+
+![](/images/empty_100.png)
+
+![](/images/final_03-1.gif)
+
+![](/images/empty_100.png)
+
+###### Mobile Web Application
+
+![](/images/empty_100.png)
+
+![](/images/final_mobile_01.png)
