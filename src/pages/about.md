@@ -77,6 +77,6 @@ excerpt: ''
 </tfoot>  
 </table>
 
-![](/images/empty.png)
+![](/images/empty_100.png)
 
 I am a UI designer from South Korea. After graduating from The University with a Bachelor degree in Visual Design in Korea. I began my web/App/UI design career for five years in the web design industry, and I designed web or apps in detail pages, contents, and landing pages. With every working opportunity, I have been striven to enhance and accept new knowledge to fully experience design's culture. As a designer, I aspire more figuring out the design area and more adopt related working area knowledge, so I went to Canada, and I graduated from The College of Seneca with a diploma in Computer Programming.
