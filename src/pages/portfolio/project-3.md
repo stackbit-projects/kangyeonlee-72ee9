@@ -10,7 +10,7 @@ template: project
 excerpt: ''
 
 ---
-Introduction of the functionality of adKnowva's web browser in many ways certainly, as well as, explains its business in advertising management and promotion with its partners.
+This project is intended to introduce the company of adKnowva. Korea based online advertisement company. The goal is to cooperate with advertisers to business companies.
 
 ![](/images/empty_150.png)
 
@@ -42,41 +42,35 @@ Introduction of the functionality of adKnowva's web browser in many ways certain
 
 ##### PROJECT OVERVIEW
 
-### How to manage many amounts of advertisement and the profits are related to?
+### How promote to advertisers that advertising can be managed through adKnowva efficiently?
 
-![](/images/03_adknowva_theproblems_01.png)
+![](/images/overview.png)
 
-Each client request many amounts of advertisements to adKnowva. They have a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
+Each client request many amounts of advertisements to adKnowva. They are managing profit system also has been controled adding advertisements on each part of the devices or applications.
 
 ![](/images/empty_150.png)
 
 ##### THE PROBLEM
 
-###### 1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device
+###### 1. Although adKnowva has excellent advertising management and a profit system, there was no company site to promote this system.
 
-###### 2. Difficult to distinguish what size of advertisements from each client request
-
-When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
-
-![](/images/empty_150.png)
+![](/images/empty_100.png)
 
 ##### GOAL
 
-I identified below things I could do to enhance the managing advertisement.
+I identified below things that I could do to build the design site.
 
-###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
+###### 1. Design the UI and visual style to improve the readability and brand identity
 
-###### 2. Update the layout improves administrators add each advertisement conveniently
+###### 2. Emphasize the feature of adKnowva's efficient business promote
 
-###### 3. Update the UI and visual style to improve the readability and brand identity
-
-![](/images/empty_150.png)
+###### ![](/images/empty_100.png)
 
 ##### THE SOLUTION
 
 ### Designing a Promoted Site
 
-Build an advertising management promoted site which can cooperate with advertising companies to web and mobile advertise online
+Build advertising management promoted site which can cooperate with advertising companies to web and mobile advertise online
 
 ![](/images/adknowva_solution.gif)
 
@@ -84,37 +78,21 @@ Build an advertising management promoted site which can cooperate with advertisi
 
 ##### THE PROCESS
 
-### How it manages all advertisements and the profit would check clearly and simplify
+### How to promote adKnowva that can manage all advertisements and the profit would check clearly and simplify
 
-My goal at ad Knowva was totally simplified to all control together on the dashboard.
-
-![](/images/empty_100.png)
-
-![](/images/process_01.png)
-
-![](/images/process_02.png)
-
-Advertisements size management can also be done, and ad exposure time and availability can also be managed.
+My goal is that introduction the functionality of adKnowva's web browser in many ways certainly, as well as, explains its business in advertising management and promotion with its partners.
 
 ![](/images/empty_100.png)
 
-![](/images/process_03.png)
+![](/images/adknowva_process_01.png)
 
-Conveniently check out lists of advertisements which an admin was added at once.
-
-![](/images/empty_100.png)
-
-![](/images/process_04.png)
-
-![](/images/process_05_2.png)
-
-Keep track of advertisements' exposure time can be managed and check out the monthly profit.
+Advertising Product Introduction
 
 ![](/images/empty_100.png)
 
-![](/images/process_06.png)
+![](/images/adknowva_process_02.png)
 
-What if the clients require to question about managing the dashboard, they can upload inquiry on the board page. Then the dashboard admin as a developer can respond immediately.
+Through the sign-in function and the client can its management
 
 ![](/images/empty_150.png)
 
