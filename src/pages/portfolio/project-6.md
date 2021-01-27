@@ -43,9 +43,7 @@ This app provides a viewer function for web-novels. Users can join that site thr
 
 ##### PROJECT OVERVIEW
 
-### How to manage many amounts of advertisement and the profits are related to?
-
-![](/images/03_adknowva_theproblems_01.png)
+### How do books and novels can be readable conveniently on mobile devices?
 
 Each client request many amounts of advertisements to adKnowva. They have a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
 
