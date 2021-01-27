@@ -1,20 +1,140 @@
 ---
 title: WEB-NOVLE VIEWER APP
-subtitle: ''
-date: '2017-02-10'
-thumb_image: /images/cool-sparrow.png
+subtitle: App
+date: 2017-02-10
+thumb_image: "/images/cool-sparrow.png"
 thumb_image_alt: viewer app
-image: images/6.jpg
+image: "/images/kyobo_thumbnail.png"
 image_alt: A handheld game console on a yellow background
 template: project
+excerpt: ''
+
 ---
+This app provides a viewer function for web-novels. Users can join that site through this app, as well as the users can manage and readable the books and web-novels which are they save up or purchase.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse faucibus interdum posuere lorem ipsum dolor. Malesuada fames ac turpis egestas sed tempus urna et. Non odio euismod lacinia at quis risus. Nisl vel pretium lectus quam id leo in vitae turpis. Dolor sit amet consectetur adipiscing elit ut. Id donec ultrices tincidunt arcu non sodales neque sodales ut. Risus ultricies tristique nulla aliquet enim. Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac ut. Et leo duis ut diam. Auctor neque vitae tempus quam pellentesque. Scelerisque in dictum non consectetur a erat nam at. Quisque sagittis purus sit amet volutpat consequat. Vulputate enim nulla aliquet porttitor lacus.
+![](/images/empty_150.png)
 
->"Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated." - Paul Rand,
+<table>  
+<thead>  
+</thead>  
+<tbody>  
+<tr>  
+<th>PROJECT TYPE</th>  
+<td>App desigin</td>  
+</tr>  
+<tr>  
+<th>ROLE</th>  
+<td>Project Designer</td>  
+</tr>  
+<tr>  
+<th>TIMELINE</th>  
+<td>Dec 2016 - Feb 2017</td>  
+</tr>  
+</tbody>  
+<tfoot>  
+<tr>  
+<th>KEY SKILLS</th>  
+<td>Concept Ideation / Interaction Design / Visual Design / Prototyping / Project Management</td>  
+</tr>  
+</tfoot>  
+</table>
 
-Nisl purus in mollis nunc sed id semper. Congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Etiam erat velit scelerisque in dictum non consectetur. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Cursus eget nunc scelerisque viverra mauris in aliquam sem. Aliquam id diam maecenas ultricies mi eget mauris pharetra. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Elit at imperdiet dui accumsan. Senectus et netus et malesuada fames ac turpis. Justo nec ultrices dui sapien eget mi proin sed libero. Aliquet eget sit amet tellus cras adipiscing enim eu turpis. Nisl purus in mollis nunc sed id. Elit duis tristique sollicitudin nibh sit. Duis ultricies lacus sed turpis. Porttitor eget dolor morbi non. Scelerisque eu ultrices vitae auctor eu augue ut. At urna condimentum mattis pellentesque id. Massa eget egestas purus viverra accumsan. Fermentum dui faucibus in ornare quam. Pharetra vel turpis nunc eget lorem.
+![](/images/empty_150.png)
 
-Sodales neque sodales ut etiam sit amet nisl. Sodales ut etiam sit amet nisl purus. Nisi vitae suscipit tellus mauris a diam maecenas sed. Egestas purus viverra accumsan in nisl nisi scelerisque. Gravida cum sociis natoque penatibus et magnis dis parturient. In hac habitasse platea dictumst vestibulum. Cras semper auctor neque vitae tempus quam pellentesque nec nam. Tellus integer feugiat scelerisque varius morbi enim nunc. Ultricies mi eget mauris pharetra et ultrices neque ornare. Vitae suscipit tellus mauris a diam. Commodo viverra maecenas accumsan lacus vel. Libero id faucibus nisl tincidunt eget nullam.
+##### PROJECT OVERVIEW
 
-Nibh praesent tristique magna sit amet purus gravida. Aenean pharetra magna ac placerat vestibulum lectus mauris. Nulla aliquet enim tortor at auctor. Lobortis elementum nibh tellus molestie. Vitae proin sagittis nisl rhoncus mattis. Velit scelerisque in dictum non consectetur a erat. Elementum curabitur vitae nunc sed. Nisl nisi scelerisque eu ultrices vitae auctor eu. Proin libero nunc consequat interdum varius sit. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Turpis cursus in hac habitasse. Adipiscing elit pellentesque habitant morbi tristique.
+### How to manage many amounts of advertisement and the profits are related to?
+
+![](/images/03_adknowva_theproblems_01.png)
+
+Each client request many amounts of advertisements to adKnowva. They have a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
+
+![](/images/empty_150.png)
+
+##### THE PROBLEM
+
+###### 1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device
+
+###### 2. Difficult to distinguish what size of advertisements from each client request
+
+When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
+
+![](/images/empty_150.png)
+
+##### GOAL
+
+I identified below things I could do to enhance the managing advertisement.
+
+###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
+
+###### 2. Update the layout improves administrators add each advertisement conveniently
+
+###### 3. Update the UI and visual style to improve the readability and brand identity
+
+![](/images/empty_150.png)
+
+##### THE SOLUTION
+
+### Designing a Dashboard
+
+I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
+
+![](/images/03_adknowva_thesoultion_02.gif)
+
+![](/images/empty_150.png)
+
+##### THE PROCESS
+
+### How it manages all advertisements and the profit would check clearly and simplify
+
+My goal at ad Knowva was totally simplified to all control together on the dashboard.
+
+![](/images/empty_100.png)
+
+![](/images/process_01.png)
+
+![](/images/process_02.png)
+
+Advertisements size management can also be done, and ad exposure time and availability can also be managed.
+
+![](/images/empty_100.png)
+
+![](/images/process_03.png)
+
+Conveniently check out lists of advertisements which an admin was added at once.
+
+![](/images/empty_100.png)
+
+![](/images/process_04.png)
+
+![](/images/process_05_2.png)
+
+Keep track of advertisements' exposure time can be managed and check out the monthly profit.
+
+![](/images/empty_100.png)
+
+![](/images/process_06.png)
+
+What if the clients require to question about managing the dashboard, they can upload inquiry on the board page. Then the dashboard admin as a developer can respond immediately.
+
+![](/images/empty_150.png)
+
+##### FINAL DESIGN
+
+In adKnowva admin, a developer can also manage advertisement information as well as merchant lists by adding clients and advertisements. As a result, developers and clients applied the same interaction flow and user interface solutions for profit management.
+
+![](/images/empty_100.png)
+
+![](/images/final_01.gif)
+
+![](/images/empty_100.png)
+
+![](/images/final_02.gif)
+
+![](/images/empty_100.png)
+
+![](/images/final_03.gif)
+
+![](/images/empty_100.png)
+
+![](/images/final_04_2.gif)
