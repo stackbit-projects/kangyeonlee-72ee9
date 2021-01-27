@@ -1,6 +1,6 @@
 ---
 title: adKnowva OFFICAIL WEB
-subtitle: ''
+subtitle: Web Application
 date: 2017-05-02
 thumb_image: "/images/thumbnail_04_adKnovaWeb.png"
 thumb_image_alt: adknowva web
