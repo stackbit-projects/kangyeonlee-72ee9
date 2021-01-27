@@ -98,7 +98,7 @@ Through the sign-in function and the client can its management
 
 ##### FINAL DESIGN
 
-In adKnowva admin, a developer can also manage advertisement information as well as merchant lists by adding clients and advertisements. As a result, developers and clients applied the same interaction flow and user interface solutions for profit management.
+I designed to intend the identity and business of adKnowva.
 
 ![](/images/empty_100.png)
 
