@@ -7,7 +7,7 @@ thumb_image_alt: heidi web
 image_alt: lorem-ipsum
 template: project
 thumb_image: "/images/neat-jupiter.gif"
-image: "/images/heidi_site_thumbnail.png"
+image: "/images/heidi_site_thumbnail_02.png"
 
 ---
 This web application is managed and controlled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
