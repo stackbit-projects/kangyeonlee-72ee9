@@ -7,7 +7,7 @@ thumb_image_alt: yiyf web
 image_alt: lorem-ipsum
 template: project
 thumb_image: "/images/thumbnail_06_huvleWeb.png"
-image: "/images/yiyf_thumbnail.png"
+image: "/images/yiyf_thumbnail_02.png"
 
 ---
 This web application is managed and controlled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
