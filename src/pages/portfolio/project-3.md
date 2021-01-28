@@ -4,7 +4,7 @@ subtitle: Web Application
 date: 2017-05-02
 thumb_image: "/images/thumbnail_04_adKnovaWeb.png"
 thumb_image_alt: adknowva web
-image: "/images/adknowva_thumbnail.png"
+image: "/images/adknowva_thumbnail_02.png"
 image_alt: A yellow retro telephone on a yellow background
 template: project
 excerpt: ''
