@@ -91,18 +91,18 @@ When the user accesses the mobile browser, to expose news of each category first
 
 ##### FINAL DESIGN
 
-In adKnowva admin, a developer can also manage advertisement information as well as merchant lists by adding clients and advertisements. As a result, developers and clients applied the same interaction flow and user interface solutions for profit management.
+![](/images/empty_100.png)
+
+![](/images/huvleviewer_final_01.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/empty_100.png)
-
-![](/images/final_02.gif)
+![](/images/huvleviewer_final_02.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_03.gif)
+![](/images/huvleviewer_final_03.png)
 
 ![](/images/empty_100.png)
 
-![](/images/final_04_2.gif)
+![](/images/huvleviewer_final_04.png)
