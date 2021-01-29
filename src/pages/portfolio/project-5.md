@@ -10,7 +10,7 @@ template: project
 excerpt: ''
 
 ---
-This web application is managed and controlled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
+This project is intended to build a mobile web browser for the company of Huvle. Korea based online advertisement company. The goal is to provide a wide searching web browser with advertisers for mobile users.
 
 ![](/images/empty_150.png)
 
@@ -20,7 +20,7 @@ This web application is managed and controlled that the web, mobile, and apps' a
 <tbody>  
 <tr>  
 <th>PROJECT TYPE</th>  
-<td>Web application desigin</td>  
+<td>Mobile web application desigin</td>  
 </tr>  
 <tr>  
 <th>ROLE</th>  
@@ -28,13 +28,13 @@ This web application is managed and controlled that the web, mobile, and apps' a
 </tr>  
 <tr>  
 <th>TIMELINE</th>  
-<td>Mar - Apr 2017</td>  
+<td>Apr 2017</td>  
 </tr>  
 </tbody>  
 <tfoot>  
 <tr>  
 <th>KEY SKILLS</th>  
-<td>Concept Ideation / Interaction Design / Visual Design / Prototyping / Project Management</td>  
+<td>Concept Ideation / Visual Design / Prototyping</td>  
 </tr>  
 </tfoot>  
 </table>
@@ -43,33 +43,27 @@ This web application is managed and controlled that the web, mobile, and apps' a
 
 ##### PROJECT OVERVIEW
 
-### How to manage many amounts of advertisement and the profits are related to?
+### How can a huge amount of information be provided with an easy-to-search interface for users?
 
-![](/images/03_adknowva_theproblems_01.png)
-
-Each client request many amounts of advertisements to adKnowva. They have a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
+With the generalization of smart devices, people have come to search and access huge amounts of information through their mobile phones. Therefore, Huvle decided to increase convenience by providing users with search browsers that improve user convenience.
 
 ![](/images/empty_150.png)
 
 ##### THE PROBLEM
 
-###### 1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device
+###### 1. Existing same type of search browsers
 
-###### 2. Difficult to distinguish what size of advertisements from each client request
-
-When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
+There are search browsers provided by several IT companies in Korea. Therefore, there were many browsers with similar interfaces, and differentiated strategies were required.
 
 ![](/images/empty_150.png)
 
 ##### GOAL
 
-I identified below things I could do to enhance the managing advertisement.
+I identified below things I could do to design the search browser.
 
-###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
+###### 1. Update the UI and visual style to improve the readability and brand identity
 
-###### 2. Update the layout improves administrators add each advertisement conveniently
-
-###### 3. Update the UI and visual style to improve the readability and brand identity
+###### 2. Optimize the UI to help users find conveniently information
 
 ![](/images/empty_150.png)
 
