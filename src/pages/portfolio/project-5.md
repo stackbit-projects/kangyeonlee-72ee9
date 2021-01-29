@@ -95,8 +95,6 @@ In adKnowva admin, a developer can also manage advertisement information as well
 
 ![](/images/empty_100.png)
 
-![](/images/final_01.gif)
-
 ![](/images/empty_100.png)
 
 ![](/images/final_02.gif)
