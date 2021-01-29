@@ -71,23 +71,17 @@ I identified below things I could do to design the search browser.
 
 ### Designing an Intuitive Seach Browser
 
-I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
-
-![](/images/03_adknowva_thesoultion_02.gif)
+![](/images/huvle_browser_solution.png)
 
 ![](/images/empty_150.png)
 
 ##### THE PROCESS
 
-### How it manages all advertisements and the profit would check clearly and simplify
+### Minimize the menu and appear only the functions that users require
 
-My goal at ad Knowva was totally simplified to all control together on the dashboard.
+My goal was totally simplified to appear the news and other information together on one page.
 
 ![](/images/empty_100.png)
-
-![](/images/process_01.png)
-
-![](/images/process_02.png)
 
 Advertisements size management can also be done, and ad exposure time and availability can also be managed.
 
