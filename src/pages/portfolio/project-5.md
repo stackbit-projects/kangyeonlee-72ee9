@@ -83,11 +83,11 @@ My goal was totally simplified to appear the news and other information together
 
 ![](/images/empty_100.png)
 
-Advertisements size management can also be done, and ad exposure time and availability can also be managed.
+![](/images/huvle_browser_process01.png)
+
+When the user accesses the mobile browser, to expose news of each category firstly.
 
 ![](/images/empty_100.png)
-
-![](/images/process_03.png)
 
 Conveniently check out lists of advertisements which an admin was added at once.
 
