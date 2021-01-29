@@ -110,7 +110,7 @@ I designed to intend the identity and business of adKnowva.
 
 ![](/images/empty_100.png)
 
-![](/images/adknowva_final_03.gif)
+![](/images/adknowva_final_03_02.gif)
 
 ![](/images/empty_100.png)
 
