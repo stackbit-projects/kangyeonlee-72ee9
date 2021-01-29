@@ -87,24 +87,6 @@ My goal was totally simplified to appear the news and other information together
 
 When the user accesses the mobile browser, to expose news of each category firstly.
 
-![](/images/empty_100.png)
-
-Conveniently check out lists of advertisements which an admin was added at once.
-
-![](/images/empty_100.png)
-
-![](/images/process_04.png)
-
-![](/images/process_05_2.png)
-
-Keep track of advertisements' exposure time can be managed and check out the monthly profit.
-
-![](/images/empty_100.png)
-
-![](/images/process_06.png)
-
-What if the clients require to question about managing the dashboard, they can upload inquiry on the board page. Then the dashboard admin as a developer can respond immediately.
-
 ![](/images/empty_150.png)
 
 ##### FINAL DESIGN
