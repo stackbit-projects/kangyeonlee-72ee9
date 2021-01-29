@@ -69,7 +69,7 @@ I identified below things I could do to design the search browser.
 
 ##### THE SOLUTION
 
-### Designing a Dashboard
+### Designing an Intuitive Seach Browser
 
 I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
 
