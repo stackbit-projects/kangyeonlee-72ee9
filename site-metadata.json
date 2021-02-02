@@ -19,7 +19,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "VISUAL",
+                "label": "GRAPHICS",
                 "url": "/blog/",
                 "style": "link"
             },
