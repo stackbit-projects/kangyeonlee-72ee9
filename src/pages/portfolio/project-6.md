@@ -57,9 +57,7 @@ examples)
 
 ##### THE PROBLEM
 
-###### 1. Require an environment where you can read books not only with mobile devices but also with a desktop or laptop
-
-###### 2. User might feel that they are just reading an Internet page, not a book
+###### User might feel that they are just reading an Internet page, not a book
 
 It should be possible for users to feel that they are reading a book, not just reading for an Internet article. There is also a risk that reading a book with a devices for a long time might be lead to weak eyesight.
 
@@ -79,7 +77,7 @@ I identified below things I could do to design the web-novel viewr.
 
 ##### THE SOLUTION
 
-### Designing a Readable Viewer
+### Designing a Convenient Readable Viewer
 
 I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
 
