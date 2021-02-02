@@ -5,7 +5,7 @@ date: 2017-02-10
 thumb_image: "/images/cool-sparrow.png"
 thumb_image_alt: viewer app
 image: "/images/kyobo_thumbnail.png"
-image_alt: A handheld game console on a yellow background
+image_alt: viewer app
 template: project
 excerpt: ''
 
@@ -45,7 +45,11 @@ This app provides a viewer function for web-novels. Users can join that site thr
 
 ### How do books and novels can be readable conveniently on mobile devices?
 
-E
+Busy modern humans have difficulty reading paper books. If so, user can read books easily and comfortably with their mobile devices that they always have.
+
+example)
+
+![](/images/statistics.png)
 
 ![](/images/empty_150.png)
 
