@@ -10,7 +10,7 @@ template: project
 excerpt: ''
 
 ---
-This web application is managed and controlled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
+This app provides a viewer function for web-novels. Users can join that site through this app, as well as the users can manage and readable the books and web-novels which are they save up or purchase.
 
 ![](/images/empty_150.png)
 
@@ -20,7 +20,7 @@ This web application is managed and controlled that the web, mobile, and apps' a
 <tbody>  
 <tr>  
 <th>PROJECT TYPE</th>  
-<td>Web application desigin</td>  
+<td>Web Application</td>  
 </tr>  
 <tr>  
 <th>ROLE</th>  
@@ -28,13 +28,13 @@ This web application is managed and controlled that the web, mobile, and apps' a
 </tr>  
 <tr>  
 <th>TIMELINE</th>  
-<td>Mar - Apr 2017</td>  
+<td>Dec 2016 - Feb 2017</td>  
 </tr>  
 </tbody>  
 <tfoot>  
 <tr>  
 <th>KEY SKILLS</th>  
-<td>Concept Ideation / Interaction Design / Visual Design / Prototyping / Project Management</td>  
+<td>Concept Ideation / Interaction Design / Visual Design / Project Management</td>  
 </tr>  
 </tfoot>  
 </table>
@@ -43,27 +43,29 @@ This web application is managed and controlled that the web, mobile, and apps' a
 
 ##### PROJECT OVERVIEW
 
-### How to manage many amounts of advertisement and the profits are related to?
+### How do books and novels can be readable conveniently using on web?
 
-![](/images/03_adknowva_theproblems_01.png)
+Busy modern humans have difficulty reading paper books. If so, user can read books easily and comfortably with their mobile devices that they always have.
 
-Each client request many amounts of advertisements to adKnowva. They have a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
+examples)
+
+![](/images/statistics02.png)
+
+![](/images/statistics.png)
 
 ![](/images/empty_150.png)
 
 ##### THE PROBLEM
 
-###### 1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device
+###### The user might feel that they are just reading an Internet page, not a book
 
-###### 2. Difficult to distinguish what size of advertisements from each client request
-
-When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
+It should be possible for users to feel that they are reading a book, not just reading for an Internet article. There is also a risk that reading a book with a devices for a long time might be lead to weak eyesight.
 
 ![](/images/empty_150.png)
 
 ##### GOAL
 
-I identified below things I could do to enhance the managing advertisement.
+I identified below things I could do to design the web-novel viewr.
 
 ###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
 
@@ -75,11 +77,11 @@ I identified below things I could do to enhance the managing advertisement.
 
 ##### THE SOLUTION
 
-### Designing a Dashboard
+### Designing a Convenient Readable Viewer
 
 I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
 
-![](/images/03_adknowva_thesoultion_02.gif)
+![](/images/kyobo_solution.png)
 
 ![](/images/empty_150.png)
 
