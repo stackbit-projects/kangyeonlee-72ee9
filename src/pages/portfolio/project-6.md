@@ -47,7 +47,9 @@ This app provides a viewer function for web-novels. Users can join that site thr
 
 Busy modern humans have difficulty reading paper books. If so, user can read books easily and comfortably with their mobile devices that they always have.
 
-example)
+examples)
+
+![](/images/statistics02.png)
 
 ![](/images/statistics.png)
 
@@ -55,17 +57,17 @@ example)
 
 ##### THE PROBLEM
 
-###### 1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device
+###### 1. Require an environment where you can read books not only with mobile devices but also with a desktop or laptop
 
-###### 2. Difficult to distinguish what size of advertisements from each client request
+###### 2. User might feel that they are just reading an Internet page, not a book
 
-When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
+It should be possible for users to feel that they are reading a book, not just reading for an Internet article. There is also a risk that reading a book with a devices for a long time might be lead to weak eyesight.
 
 ![](/images/empty_150.png)
 
 ##### GOAL
 
-I identified below things I could do to enhance the managing advertisement.
+I identified below things I could do to design the web-novel viewr.
 
 ###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
 
@@ -77,7 +79,7 @@ I identified below things I could do to enhance the managing advertisement.
 
 ##### THE SOLUTION
 
-### Designing a Dashboard
+### Designing a Readable Viewer
 
 I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
 
