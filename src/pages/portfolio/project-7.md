@@ -57,15 +57,15 @@ examples)
 
 ##### THE PROBLEM
 
-###### The user might feel that they are just reading an Internet page, not a book
+###### Require an environment where you can read books not only with mobile devices but also with a desktop or laptop
 
-It should be possible for users to feel that they are reading a book, not just reading for an Internet article. There is also a risk that reading a book with a devices for a long time might be lead to weak eyesight.
+It should be possible for users to feel that they are reading a book, not just reading for an Internet article. There is also a risk that reading a book with devices for a long time might be lead to weak eyesight.
 
 ![](/images/empty_150.png)
 
 ##### GOAL
 
-I identified below things I could do to design the web-novel viewr.
+I identified below things I could do to design the web-novel viewer.
 
 ###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
 
