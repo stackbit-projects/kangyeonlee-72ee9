@@ -95,11 +95,9 @@ My goal was to design totally intuitive and simplified viewer.
 
 ![](/images/viewer_app_process_01.png)
 
-Advertisements size management can also be done, and ad exposure time and availability can also be managed.
+Each menu section provides the user with recommendations genre of lists.
 
 ![](/images/empty_100.png)
-
-![](/images/process_03.png)
 
 Conveniently check out lists of advertisements which an admin was added at once.
 
