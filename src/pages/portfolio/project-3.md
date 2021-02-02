@@ -46,13 +46,13 @@ This project is intended to introduce the company of adKnowva. Korea based onlin
 
 ![](/images/overview.png)
 
-Each client request many amounts of advertisements to adKnowva. They are managing profit system also has been controled adding advertisements on each part of the devices or applications.
+Each client request many amounts of advertisements to adKnowva. They are managing profit system also has been controlled adding advertisements on each part of the devices or applications.
 
 ![](/images/empty_150.png)
 
 ##### THE PROBLEM
 
-###### 1. Although adKnowva has excellent advertising management and a profit system, there was no company site to promote this system.
+###### Although adKnowva has excellent advertising management and a profit system, there was no company site to promote this system.
 
 ![](/images/empty_100.png)
 
