@@ -65,11 +65,11 @@ It should be possible for users to feel that they are reading a book, not just r
 
 ##### GOAL
 
-I identified below things I could do to design the web-novel viewer.
+I identified below things I could do to design a mobile viewer.
 
-###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
+###### 1. Optimize the UI to help users quickly find each section of books
 
-###### 2. Update the layout improves administrators add each advertisement conveniently
+###### 2. Simplification the layout improves users find the section and read books each conveniently
 
 ###### 3. Update the UI and visual style to improve the readability and brand identity
 
@@ -79,7 +79,7 @@ I identified below things I could do to design the web-novel viewer.
 
 ### Designing a Convenient Readable Viewer
 
-I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
+I decided to design a viewer that the users are available to read books comfortably and at any time on their mobile devices. The user can also set the viewer as desired to set the character size, screen color, and whether the set the character's dialogue which appears matching their illustration.
 
 ![](/images/kyobo_solution.png)
 
@@ -87,15 +87,11 @@ I decided to design a dashboard that efficiently manages the controlling adverti
 
 ##### THE PROCESS
 
-### How it manages all advertisements and the profit would check clearly and simplify
+### How to read the books and manage purchased book
 
-My goal at ad Knowva was totally simplified to all control together on the dashboard.
+My goal was to design totally intuitive and simplified viewer.
 
 ![](/images/empty_100.png)
-
-![](/images/process_01.png)
-
-![](/images/process_02.png)
 
 Advertisements size management can also be done, and ad exposure time and availability can also be managed.
 
