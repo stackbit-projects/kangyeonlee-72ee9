@@ -93,6 +93,8 @@ My goal was to design totally intuitive and simplified viewer.
 
 ![](/images/empty_100.png)
 
+![](/images/viewer_app_process_01.png)
+
 Advertisements size management can also be done, and ad exposure time and availability can also be managed.
 
 ![](/images/empty_100.png)
