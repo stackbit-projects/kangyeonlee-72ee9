@@ -57,15 +57,15 @@ examples)
 
 ##### THE PROBLEM
 
-###### User might feel that they are just reading an Internet page, not a book
+###### The user might feel that they are just reading an Internet page, not a book
 
-It should be possible for users to feel that they are reading a book, not just reading for an Internet article. There is also a risk that reading a book with a devices for a long time might be lead to weak eyesight.
+It should be possible for users to feel that they are reading a book, not just reading for an Internet article. There is also a risk that reading a book with devices for a long time might be lead to weak eyesight.
 
 ![](/images/empty_150.png)
 
 ##### GOAL
 
-I identified below things I could do to design the web-novel viewr.
+I identified below things I could do to design the web-novel viewer.
 
 ###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
 
