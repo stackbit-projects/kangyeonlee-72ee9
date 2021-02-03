@@ -99,13 +99,13 @@ Each menu section provides the user with recommendations genre of lists.
 
 ![](/images/empty_100.png)
 
-Conveniently check out lists of advertisements which an admin was added at once.
+![](/images/viewer_app_process_02.png)
+
+On myPage, users can manage the list of books they purchased and the comments.
 
 ![](/images/empty_100.png)
 
-![](/images/process_04.png)
-
-![](/images/process_05_2.png)
+![](/images/viewer_app_process_03.png)
 
 Keep track of advertisements' exposure time can be managed and check out the monthly profit.
 
