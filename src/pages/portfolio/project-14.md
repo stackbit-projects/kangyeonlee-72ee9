@@ -10,7 +10,7 @@ thumb_image: "/images/thumbnail_09_marco_church.png"
 image: "/images/mark_thumbnail_02.png"
 
 ---
-This web application is managed and controlled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
+This web application site was designed for St. Marco's Cathedral
 
 ![](/images/empty_150.png)
 
