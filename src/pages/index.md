@@ -7,16 +7,8 @@ sections:
     title: 'Hello, I am Kangyeon Lee!'
     section_id: hero
     content: >
-      I am a curious individual, a human observer, a team’s pencil sharpener,
-      and a UI designer.
-
-      I am not a one-woman band, a UI artist, a defensive critiquer, or any kind
-      of egoist.
-
-      I thrive on tackling complex systems and architecture, sweating meaningful
-      details,
-
-      and collaborating with thoughtful makers!
+      I am a curious observer, obsessed with creation, teams' lubricant, and a
+      UI designer.
     actions:
       - type: action
         template: action
