@@ -79,17 +79,17 @@ I identified below things I could do to design the web-novel viewer.
 
 ### Designing a Convenient Readable Viewer
 
-I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
+I decided to design a viewer that the users are available to read books comfortably and at any time on their mobile devices. The user can also set the viewer as desired to set the character size, screen color, and whether the set the character's dialogue which appears matching their illustration.
 
-![](/images/kyobo_solution.png)
+![](/images/kyobo_web_solution.png)
 
 ![](/images/empty_150.png)
 
 ##### THE PROCESS
 
-### How it manages all advertisements and the profit would check clearly and simplify
+### Read a book or comic book through the user-customized viewer
 
-My goal at ad Knowva was totally simplified to all control together on the dashboard.
+My goal was to design totally intuitive and simplified viewer.
 
 ![](/images/empty_100.png)
 
@@ -123,7 +123,7 @@ What if the clients require to question about managing the dashboard, they can u
 
 ##### FINAL DESIGN
 
-In adKnowva admin, a developer can also manage advertisement information as well as merchant lists by adding clients and advertisements. As a result, developers and clients applied the same interaction flow and user interface solutions for profit management.
+Basically, lists show recommended books based on preferences before users find books and lists works that users can be interested in with intuitive and simple UI. The viewer is also very simple, but the menu is designed with icons that users can recognize at a glance, making it intuitive and simple to use.
 
 ![](/images/empty_100.png)
 
