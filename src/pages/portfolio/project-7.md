@@ -127,16 +127,20 @@ Basically, lists show recommended books based on preferences before users find b
 
 ![](/images/empty_100.png)
 
-![](/images/final_01.gif)
+![](/images/kyobo_web_final_web01.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_02.gif)
+![](/images/kyobo_web_final_web02.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_03.gif)
+![](/images/kyobo_web_final_web03.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_04_2.gif)
+![](/images/kyobo_web_final_web04.gif)
+
+![](/images/empty_100.png)
+
+![](/images/kyobo_web_final_web05.gif)
