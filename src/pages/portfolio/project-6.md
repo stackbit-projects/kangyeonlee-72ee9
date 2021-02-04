@@ -107,32 +107,30 @@ On myPage, users can manage the list of books they purchased and the comments.
 
 ![](/images/viewer_app_process_03.png)
 
-Keep track of advertisements' exposure time can be managed and check out the monthly profit.
+If the user search keywords for the genre they want to read, the corresponding book.
 
 ![](/images/empty_100.png)
 
-![](/images/process_06.png)
+![](/images/viewer_app_process_04.png)
 
-What if the clients require to question about managing the dashboard, they can upload inquiry on the board page. Then the dashboard admin as a developer can respond immediately.
-
-![](/images/empty_150.png)
+The viewer allows the user to customize the viewer as desired by modifying the background color, character size, and spacing.![](/images/empty_150.png)
 
 ##### FINAL DESIGN
 
-In adKnowva admin, a developer can also manage advertisement information as well as merchant lists by adding clients and advertisements. As a result, developers and clients applied the same interaction flow and user interface solutions for profit management.
+Basically, lists show recommended books based on preferences before users find books and lists works that users can be interested in with intuitive and simple UI. The viewer is also very simple, but the menu is designed with icons that users can recognize at a glance, making it intuitive and simple to use.
 
 ![](/images/empty_100.png)
 
-![](/images/final_01.gif)
+![](/images/kyobo_final_mobile01.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_02.gif)
+![](/images/kyobo_final_mobile02.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_03.gif)
+![](/images/kyobo_final_mobile04.png)
 
 ![](/images/empty_100.png)
 
-![](/images/final_04_2.gif)
+![](/images/kyobo_final_mobile05.png)
