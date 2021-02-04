@@ -10,7 +10,7 @@ template: project
 excerpt: ''
 
 ---
-This app provides a viewer function for web-novels. Users can join that site through this app, as well as the users can manage and readable the books and web-novels which are they save up or purchase.
+This web application provides a viewer function for web-novels. Users can join that site through this site, as well as the users can manage and readable the books and web-novels which are they save up or purchase.
 
 ![](/images/empty_150.png)
 
@@ -43,7 +43,7 @@ This app provides a viewer function for web-novels. Users can join that site thr
 
 ##### PROJECT OVERVIEW
 
-### How do books and novels can be readable conveniently using on web?
+### How do tons of books and novels can be readable conveniently on the online site?
 
 Busy modern humans have difficulty reading paper books. If so, user can read books easily and comfortably with their mobile devices that they always have.
 
