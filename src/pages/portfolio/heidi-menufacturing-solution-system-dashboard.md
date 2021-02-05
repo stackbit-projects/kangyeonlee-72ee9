@@ -55,7 +55,7 @@ Here is a factory that manufactures bags. There are almost 100 production lines,
 
 ##### THE PROBLEM
 
-###### 1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device
+###### 1. There is not any managing technology system for the factories, the employees just have been worked through the documents
 
 ###### 2. Difficult to distinguish what size of advertisements from each client request
 
