@@ -26,7 +26,7 @@ sections:
     view_all_url: ''
   - type: section_posts
     template: section_posts
-    title: ''
+    title: G
     section_id: latest-posts
     subtitle: ''
     posts_number: 2
