@@ -95,27 +95,11 @@ My goal was to design totally intuitive and simplified viewer.
 
 ![](/images/kyobo_web_process_01.png)
 
-Advertisements size management can also be done, and ad exposure time and availability can also be managed.
+![](/images/kyobo_web_process_02.png)
 
-![](/images/empty_100.png)
+![](/images/kyobo_web_process_03.png)
 
-![](/images/process_03.png)
-
-Conveniently check out lists of advertisements which an admin was added at once.
-
-![](/images/empty_100.png)
-
-![](/images/process_04.png)
-
-![](/images/process_05_2.png)
-
-Keep track of advertisements' exposure time can be managed and check out the monthly profit.
-
-![](/images/empty_100.png)
-
-![](/images/process_06.png)
-
-What if the clients require to question about managing the dashboard, they can upload inquiry on the board page. Then the dashboard admin as a developer can respond immediately.
+For the identity of the novel site, I emphasized a point that feels like a book on various pages.
 
 ![](/images/empty_150.png)
 
