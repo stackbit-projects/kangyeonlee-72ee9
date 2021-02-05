@@ -28,13 +28,13 @@ This web application is managed and controlled that the web, mobile, and apps' a
 </tr>  
 <tr>  
 <th>TIMELINE</th>  
-<td>Mar - Apr 2017</td>  
+<td>Sep - Oct 2016</td>  
 </tr>  
 </tbody>  
 <tfoot>  
 <tr>  
 <th>KEY SKILLS</th>  
-<td>Concept Ideation / Interaction Design / Visual Design / Prototyping / Project Management</td>  
+<td>Concept Ideation / Interaction Design / Visual Design</td>  
 </tr>  
 </tfoot>  
 </table>
