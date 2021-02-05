@@ -47,7 +47,7 @@ This app provides a viewer function for web-novels. Users can join that site thr
 
 Busy modern humans have difficulty reading paper books. If so, user can read books easily and comfortably with their mobile devices that they always have.
 
-examples)
+![](/images/empty_100.png)
 
 ![](/images/statistics02.png)
 
