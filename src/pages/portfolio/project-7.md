@@ -93,9 +93,7 @@ My goal was to design totally intuitive and simplified viewer.
 
 ![](/images/empty_100.png)
 
-![](/images/process_01.png)
-
-![](/images/process_02.png)
+![](/images/kyobo_web_process_01.png)
 
 Advertisements size management can also be done, and ad exposure time and availability can also be managed.
 
