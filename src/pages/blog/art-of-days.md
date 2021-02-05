@@ -6,7 +6,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: ''
 excerpt: ''
 template: post
-thumb_image: "/images/person03.jpeg"
+thumb_image: "/images/thumb.png"
 image: ''
 
 ---
