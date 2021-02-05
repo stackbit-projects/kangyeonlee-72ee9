@@ -7,7 +7,7 @@ thumb_image_alt: heidi dashboard
 image_alt: lorem-ipsum
 template: project
 thumb_image: "/images/thumbnail_12_HeidiDashboard.png"
-image: "/images/heidi_dashboard_thumbnail.png"
+image: "/images/heidi_dashboard_thumbnail02.png"
 
 ---
 This web application is managed and controlled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
@@ -28,13 +28,13 @@ This web application is managed and controlled that the web, mobile, and apps' a
 </tr>  
 <tr>  
 <th>TIMELINE</th>  
-<td>Mar - Apr 2017</td>  
+<td>Feb - Apr 2016</td>  
 </tr>  
 </tbody>  
 <tfoot>  
 <tr>  
 <th>KEY SKILLS</th>  
-<td>Concept Ideation / Interaction Design / Visual Design / Prototyping / Project Management</td>  
+<td>Concept Ideation / Interaction Design / Visual Design</td>  
 </tr>  
 </tfoot>  
 </table>
@@ -43,9 +43,7 @@ This web application is managed and controlled that the web, mobile, and apps' a
 
 ##### PROJECT OVERVIEW
 
-### How to manage many amounts of advertisement and the profits are related to?
-
-![](/images/03_adknowva_theproblems_01.png)
+### Simply identify complex working process at a glance
 
 Each client request many amounts of advertisements to adKnowva. They have a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
 
