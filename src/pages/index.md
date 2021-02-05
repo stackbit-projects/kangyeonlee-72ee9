@@ -28,7 +28,7 @@ sections:
     template: section_posts
     title: GRAPHICS
     section_id: latest-posts
-    subtitle: ''
+    subtitle: GRAPHICS
     posts_number: 2
     col_number: two
     actions:
