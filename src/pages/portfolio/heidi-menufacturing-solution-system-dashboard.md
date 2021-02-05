@@ -45,7 +45,11 @@ This web application is managed and controlled that the web, mobile, and apps' a
 
 ### Simply identify complex working process at a glance
 
-Each client request many amounts of advertisements to adKnowva. They have a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
+![](/images/overview-1.png)
+
+![](/images/overview02.png)
+
+Here is a factory that manufactures bags. There are almost 100 production lines, and there are more than 1,000 factory employees. Among them, there are more than 100 managers and many supervisors. How do we get real-time confirmation that so many factory employees are doing their process well?
 
 ![](/images/empty_150.png)
 
