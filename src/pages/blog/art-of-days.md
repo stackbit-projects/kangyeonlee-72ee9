@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Art of Days
 subtitle: ''
 date: '2021-02-05'
 thumb_image_alt: lorem-ipsum
