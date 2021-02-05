@@ -1,88 +1,86 @@
 {
-  "title": "Hi, there! This is Kangyeon Lee's portfolio!",
-  "description": "Hi, there! This is Kangyeon Lee's portfolio!",
-  "color_scheme": "light",
-  "accent_color": "green",
-  "header": {
-    "type": "header",
-    "template": "header",
-    "title": "",
-    "has_nav": true,
-    "nav_links": [
-      {
-        "type": "action",
-        "template": "action",
-        "label": "PASSIONS",
-        "url": "/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "GRAPHICS",
-        "url": "/blog/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "ABOUT",
-        "url": "/about/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      }
-    ],
-    "logo_img": "/images/gyl_logo02.png",
-    "logo_img_alt": "ky"
-  },
-  "footer": {
-    "type": "footer",
-    "template": "footer",
-    "content": "&copy; KANGYEON LEE. ALL RIGHTS RESERVED.",
-    "has_social": true,
-    "social_links": [
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Instagram",
-        "url": "https://www.instagram.com/yoni_llustration/",
-        "style": "icon",
-        "icon_class": "fa-instagram",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Github",
-        "url": "https://github.com/KangyeonLee",
-        "style": "icon",
-        "icon_class": "fa-github",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/kangyeon-lee-229283131/",
-        "style": "icon",
-        "icon_class": "fa-linkedin",
-        "new_window": true,
-        "no_follow": false
-      }
-    ],
-    "links": [
-
-    ]
-  },
-  "favicon": "/images/favicon_ky.png"
+    "title": "Hi, there! This is Kangyeon Lee's portfolio!",
+    "description": "Hi, there! This is Kangyeon Lee's portfolio!",
+    "color_scheme": "light",
+    "accent_color": "green",
+    "header": {
+        "type": "header",
+        "template": "header",
+        "title": "",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "template": "action",
+                "label": "PASSIONS",
+                "url": "/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "GRAPHICS",
+                "url": "/blog/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "ABOUT",
+                "url": "/about/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
+        "logo_img": "/images/panoramic-squid.png",
+        "logo_img_alt": "ky"
+    },
+    "footer": {
+        "type": "footer",
+        "template": "footer",
+        "content": "&copy; KANGYEON LEE. ALL RIGHTS RESERVED.",
+        "has_social": true,
+        "social_links": [
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/yoni_llustration/",
+                "style": "icon",
+                "icon_class": "fa-instagram",
+                "new_window": true,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Github",
+                "url": "https://github.com/KangyeonLee",
+                "style": "icon",
+                "icon_class": "fa-github",
+                "new_window": true,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/kangyeon-lee-229283131/",
+                "style": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true,
+                "no_follow": false
+            }
+        ],
+        "links": []
+    },
+    "favicon": "/images/favicon_ky.png"
 }
