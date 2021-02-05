@@ -6,7 +6,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: ''
 excerpt: ''
 template: post
-image: /images/person03.jpeg
 thumb_image: /images/melodic-cabbage.jpeg
 ---
 ## Lorem ipsum
