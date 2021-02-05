@@ -1,16 +1,21 @@
 ---
 title: Art of Days
 subtitle: ''
-date: '2020-11-16'
+date: 2020-11-16
 thumb_image_alt: lorem-ipsum
 image_alt: ''
 excerpt: ''
 template: post
-thumb_image: /images/melodic-cabbage.jpeg
+thumb_image: "/images/melodic-cabbage.jpeg"
+image: ''
+
 ---
-## Lorem ipsum
+![](/images/person03.jpeg)
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+![](/images/empty_100.png)
 
-- Lorem ipsum
-- dolor sit amet
+![](/images/person02.jpeg)
+
+![](/images/empty_100.png)
+
+![](/images/person01.jpeg)
