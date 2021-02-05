@@ -3,7 +3,7 @@ title: lorem-ipsum
 subtitle: lorem-ipsum
 date: '2021-02-05'
 thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+image_alt: ''
 excerpt: ''
 template: post
 ---
