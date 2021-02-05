@@ -8,7 +8,7 @@ sections:
     section_id: hero
     content: >
       ###### I am a curious observer, obsessed with creation, teams' lubricant,
-      and a UI designer.
+      and a UI designer
     actions:
       - type: action
         template: action
