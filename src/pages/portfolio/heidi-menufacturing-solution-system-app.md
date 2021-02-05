@@ -10,7 +10,7 @@ thumb_image: "/images/thumbnail_10_HeidiApp.gif"
 image: "/images/heidi_app_thumbnail.png"
 
 ---
-This web application is managed and controlled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
+This app helps factory employees quickly check out the work status with their smart devices in real-time to speed up the working process.
 
 ![](/images/empty_150.png)
 
@@ -20,7 +20,7 @@ This web application is managed and controlled that the web, mobile, and apps' a
 <tbody>  
 <tr>  
 <th>PROJECT TYPE</th>  
-<td>Web application desigin</td>  
+<td>App design</td>  
 </tr>  
 <tr>  
 <th>ROLE</th>  
@@ -28,13 +28,13 @@ This web application is managed and controlled that the web, mobile, and apps' a
 </tr>  
 <tr>  
 <th>TIMELINE</th>  
-<td>Mar - Apr 2017</td>  
+<td>May - Jun 2016</td>  
 </tr>  
 </tbody>  
 <tfoot>  
 <tr>  
 <th>KEY SKILLS</th>  
-<td>Concept Ideation / Interaction Design / Visual Design / Prototyping / Project Management</td>  
+<td>Concept Ideation / Interaction Design / Visual Design / Project Management</td>  
 </tr>  
 </tfoot>  
 </table>
@@ -43,11 +43,11 @@ This web application is managed and controlled that the web, mobile, and apps' a
 
 ##### PROJECT OVERVIEW
 
-### How to manage many amounts of advertisement and the profits are related to?
+### How could make the working process speed up a little more
 
-![](/images/03_adknowva_theproblems_01.png)
+![](/images/overview-1.png)
 
-Each client request many amounts of advertisements to adKnowva. They have a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
+Here is a factory that manufactures bags. There are almost 100 production lines, and there are more than 1,000 factory employees. Among them, there are more than 100 managers and many supervisors. How do we get real-time confirmation that so many factory employees are doing their process well?
 
 ![](/images/empty_150.png)
 
