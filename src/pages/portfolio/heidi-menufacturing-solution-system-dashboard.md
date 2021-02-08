@@ -55,33 +55,31 @@ Here is a factory that manufactures bags. There are almost 100 production lines,
 
 ##### THE PROBLEM
 
-###### 1. There is not any managing technology system for the factories, the employees just have been worked through the documents
+###### There is not any managing technology system for the factories, the employees just have been worked through the documents
 
-###### 2. Difficult to distinguish what size of advertisements from each client request
-
-When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
+The management system was not properly established, so managers and supervisors had to print out their employees' work status in documents at that time, receive them, and seach and read many complicated working process one by one.
 
 ![](/images/empty_150.png)
 
 ##### GOAL
 
-I identified below things I could do to enhance the managing advertisement.
+I identified below things I could do to design the dashboard.
 
-###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
+###### 1. Optimize the UI to help users quickly find each process properly
 
-###### 2. Update the layout improves administrators add each advertisement conveniently
+**2. Update the layout improves administrators add each working section conveniently**
 
-###### 3. Update the UI and visual style to improve the readability and brand identity
+**3. Update the UI and visual style to improve the readability and brand identity**
 
-![](/images/empty_150.png)
+**![](/images/empty_150.png)**
 
 ##### THE SOLUTION
 
 ### Designing a Dashboard
 
-I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
+I decided to design a dashboard that efficiently check out the employee's working status on each section quickly also, easy to control it. Visualize organizing total working process procedure can be brought about reducing working time.
 
-![](/images/03_adknowva_thesoultion_02.gif)
+![](/images/heidi_dashboard_solution.png)
 
 ![](/images/empty_150.png)
 
