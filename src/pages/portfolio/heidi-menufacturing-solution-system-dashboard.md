@@ -91,31 +91,17 @@ My goal was totally visuzlized to all control together on the dashboard.
 
 ![](/images/empty_100.png)
 
-![](/images/process_01.png)
+![](/images/heidi_dashboard_process01.png)
 
-![](/images/process_02.png)
+![](/images/heidi_dashboard_process02.png)
 
-Advertisements size management can also be done, and ad exposure time and availability can also be managed.
-
-![](/images/empty_100.png)
-
-![](/images/process_03.png)
-
-Conveniently check out lists of advertisements which an admin was added at once.
+Visualize the status to make it easier to recognize.
 
 ![](/images/empty_100.png)
 
-![](/images/process_04.png)
+![](/images/heidi_dashboard_process03.png)
 
-![](/images/process_05_2.png)
-
-Keep track of advertisements' exposure time can be managed and check out the monthly profit.
-
-![](/images/empty_100.png)
-
-![](/images/process_06.png)
-
-What if the clients require to question about managing the dashboard, they can upload inquiry on the board page. Then the dashboard admin as a developer can respond immediately.
+Easy Employee Management.
 
 ![](/images/empty_150.png)
 
