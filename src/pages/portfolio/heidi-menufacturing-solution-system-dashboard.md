@@ -85,9 +85,9 @@ I decided to design a dashboard that efficiently check out the employee's workin
 
 ##### THE PROCESS
 
-### How it manages all advertisements and the profit would check clearly and simplify
+### How it check out complicated process and the working status clearly
 
-My goal at ad Knowva was totally simplified to all control together on the dashboard.
+My goal was totally visuzlized to all control together on the dashboard.
 
 ![](/images/empty_100.png)
 
