@@ -121,20 +121,44 @@ What if the clients require to question about managing the dashboard, they can u
 
 ##### FINAL DESIGN
 
-In adKnowva admin, a developer can also manage advertisement information as well as merchant lists by adding clients and advertisements. As a result, developers and clients applied the same interaction flow and user interface solutions for profit management.
+The administrator providing dashboards, the dashboards for process managers, and the dashboards for employees who can check the status immediately were designed separately.
 
 ![](/images/empty_100.png)
 
-![](/images/final_01.gif)
+Admin Page
+
+![](/images/heidi_dashboard_final_web01.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_02.gif)
+![](/images/heidi_dashboard_final_web02.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_03.gif)
+![](/images/heidi_dashboard_final_web03.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_04_2.gif)
+![](/images/heidi_dashboard_final_web04.gif)
+
+![](/images/empty_100.png)
+
+For Supervisor
+
+![](/images/heidi_dashboard_final_web05.gif)
+
+![](/images/empty_100.png)
+
+![](/images/heidi_dashboard_final_web06_1.gif)
+
+![](/images/empty_100.png)
+
+![](/images/heidi_dashboard_final_web07.gif)
+
+![](/images/empty_100.png)
+
+![](/images/heidi_dashboard_final_web08_1.gif)
+
+![](/images/empty_100.png)
+
+![](/images/heidi_dashboard_final_web09.gif)
