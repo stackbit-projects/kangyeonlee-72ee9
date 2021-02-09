@@ -103,6 +103,14 @@ Visualize the status to make it easier to recognize.
 
 Easy Employee Management.
 
+![](/images/empty_100.png)
+
+![](/images/heidi_dashboard_process04.png)
+
+![](/images/heidi_dashboard_process05.png)
+
+![](/images/heidi_dashboard_final_web08.gif)
+
 ![](/images/empty_150.png)
 
 ##### FINAL DESIGN
