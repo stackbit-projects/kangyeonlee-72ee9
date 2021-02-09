@@ -10,7 +10,7 @@ thumb_image: "/images/thumbnail_12_HeidiDashboard.png"
 image: "/images/heidi_dashboard_thumbnail02.png"
 
 ---
-This web application is managed and controlled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
+System dashboards help employees operate your process management system more efficiently and save time
 
 ![](/images/empty_150.png)
 
