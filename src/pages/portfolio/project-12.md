@@ -28,13 +28,13 @@ This web application is managed and controlled that the web, mobile, and apps' a
 </tr>  
 <tr>  
 <th>TIMELINE</th>  
-<td>Sep - Oct 2016</td>  
+<td>Oct 2016</td>  
 </tr>  
 </tbody>  
 <tfoot>  
 <tr>  
 <th>KEY SKILLS</th>  
-<td>Concept Ideation / Interaction Design / Visual Design</td>  
+<td>Concept Ideation / Visual Design</td>  
 </tr>  
 </tfoot>  
 </table>
@@ -43,11 +43,9 @@ This web application is managed and controlled that the web, mobile, and apps' a
 
 ##### PROJECT OVERVIEW
 
-### How to manage many amounts of advertisement and the profits are related to?
+### How can the advantage of a process management program be clearly recognized by consumers?
 
-![](/images/03_adknowva_theproblems_01.png)
-
-Each client request many amounts of advertisements to adKnowva. They have a lack of managing profit system also has been difficult to control adding advertisements on each part of the devices or applications.
+There was not designed introduction site that can promote to clients an efficient manufacturing system linked to apps provided by Heidi.
 
 ![](/images/empty_150.png)
 
