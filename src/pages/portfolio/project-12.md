@@ -93,7 +93,7 @@ My goal at ad Knowva was totally simplified to all control together on the dashb
 
 ![](/images/empty_100.png)
 
-![](/images/process_01.png)
+![](/images/heidi_web_process01.png)
 
 ![](/images/process_02.png)
 
@@ -127,16 +127,16 @@ In adKnowva admin, a developer can also manage advertisement information as well
 
 ![](/images/empty_100.png)
 
-![](/images/final_01.gif)
+![](/images/heidi_web_final_web01.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_02.gif)
+![](/images/heidi_web_final_web02.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_03.gif)
+![](/images/heidi_web_final_web03.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_04_2.gif)
+![](/images/heidi_web_final_web04.gif)
