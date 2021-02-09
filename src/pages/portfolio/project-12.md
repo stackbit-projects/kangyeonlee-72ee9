@@ -10,7 +10,7 @@ thumb_image: "/images/neat-jupiter.gif"
 image: "/images/heidi_site_thumbnail_02.png"
 
 ---
-This web application is managed and controlled that the web, mobile, and apps' advertisement business. The clients could be used a dashboard to managed each advertisement or apps, distinguish statistics, and could be checked out the profit of advertisements.
+This web application promotes which the system dashboards help employees operate your process management system more efficiently and save time.
 
 ![](/images/empty_150.png)
 
@@ -79,7 +79,7 @@ I identified below things I could do to enhance the managing advertisement.
 
 ### Emphasize a service
 
-I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
+I decided to design a site that recognizes Heidi's business at a glance. Focus on visual images for comprehending their platform rather than word explanations.
 
 ![](/images/heidi_web_solution.gif)
 
