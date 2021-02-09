@@ -45,6 +45,10 @@ This web application is managed and controlled that the web, mobile, and apps' a
 
 ### How can the advantage of a process management program be clearly recognized by consumers?
 
+### ![](/images/empty_100.png)![](/images/heidi_web_process.png)
+
+![](/images/empty_100.png)
+
 There was not designed introduction site that can promote to clients an efficient manufacturing system linked to apps provided by Heidi.
 
 ![](/images/empty_150.png)
@@ -73,11 +77,11 @@ I identified below things I could do to enhance the managing advertisement.
 
 ##### THE SOLUTION
 
-### Designing a Dashboard
+### Emphasize a service
 
 I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
 
-![](/images/03_adknowva_thesoultion_02.gif)
+![](/images/heidi_web_solution.gif)
 
 ![](/images/empty_150.png)
 
