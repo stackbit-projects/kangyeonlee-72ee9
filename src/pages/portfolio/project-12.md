@@ -87,7 +87,7 @@ I decided to design a site that recognizes Heidi's business at a glance. Focus o
 
 ### How it manages all advertisements and the profit would check clearly and simplify
 
-My goal at ad Knowva was totally simplified to all control together on the dashboard.
+My goal was to visualize Heidi's features and business terms that are difficult to figure out to customers.
 
 ![](/images/empty_100.png)
 
