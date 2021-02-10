@@ -55,17 +55,15 @@ There was not designed introduction site that can promote to clients an efficien
 
 ##### THE PROBLEM
 
-###### 1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device
+###### How can visualize Heidi's capabilities provides to their customers?
 
-###### 2. Difficult to distinguish what size of advertisements from each client request
-
-When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
+There are so many benefits of the process management system that it can be a very long text to explain. In addition, there are so many contents that it can be boring to explain the functions.
 
 ![](/images/empty_150.png)
 
 ##### GOAL
 
-I identified below things I could do to enhance the managing advertisement.
+I identified below things I could do to design Heidi official site.
 
 ###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
 
@@ -95,35 +93,11 @@ My goal at ad Knowva was totally simplified to all control together on the dashb
 
 ![](/images/heidi_web_process01.png)
 
-![](/images/process_02.png)
-
-Advertisements size management can also be done, and ad exposure time and availability can also be managed.
-
-![](/images/empty_100.png)
-
-![](/images/process_03.png)
-
-Conveniently check out lists of advertisements which an admin was added at once.
-
-![](/images/empty_100.png)
-
-![](/images/process_04.png)
-
-![](/images/process_05_2.png)
-
-Keep track of advertisements' exposure time can be managed and check out the monthly profit.
-
-![](/images/empty_100.png)
-
-![](/images/process_06.png)
-
-What if the clients require to question about managing the dashboard, they can upload inquiry on the board page. Then the dashboard admin as a developer can respond immediately.
-
 ![](/images/empty_150.png)
 
 ##### FINAL DESIGN
 
-In adKnowva admin, a developer can also manage advertisement information as well as merchant lists by adding clients and advertisements. As a result, developers and clients applied the same interaction flow and user interface solutions for profit management.
+My goal was the site in a way that allows customers to recognize Heidi's business by visualizing Heidi's identity and strengths as much as possible.
 
 ![](/images/empty_100.png)
 
