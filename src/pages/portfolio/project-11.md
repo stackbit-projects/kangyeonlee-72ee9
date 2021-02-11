@@ -28,7 +28,7 @@ This web application is managed students' schedule of English village through th
 </tr>  
 <tr>  
 <th>TIMELINE</th>  
-<td>Jan 2016 - Feb 2016</td>  
+<td>Dec 2015 - Feb 2016</td>  
 </tr>  
 </tbody>  
 <tfoot>  
