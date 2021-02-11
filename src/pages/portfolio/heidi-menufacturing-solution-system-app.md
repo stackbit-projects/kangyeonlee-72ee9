@@ -53,39 +53,35 @@ Here is a factory that manufactures bags. There are almost 100 production lines,
 
 ##### THE PROBLEM
 
-###### 1. Even if it's the same advertisement, the size and number of advertisements are different for each mobile device
+###### Most of the factory employees receive their work process in paper documents
 
-###### 2. Difficult to distinguish what size of advertisements from each client request
-
-When managing the advertisements, in the existing system, there was difficulty distinguishing advertisement which is from each client. Each client provides various advertisements. Additionally, the resolution sizes of mobile devices vary widely, requiring distinction of data from advertising management by size and client-specific to profit aggregation.
+Ordinary employees were even receiving information from supervisor or manager-level employees in paper documents, and it was necessary to classify information that they did not require.
 
 ![](/images/empty_150.png)
 
 ##### GOAL
 
-I identified below things I could do to enhance the managing advertisement.
+I identified below things I could do to design the app.
 
-###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
+###### 1. Optimize the UI to help employees quickly find each process of each section
 
-###### 2. Update the layout improves administrators add each advertisement conveniently
+**2. Enhance the UI and visual style to improve the readability and brand identity**
 
-###### 3. Update the UI and visual style to improve the readability and brand identity
-
-![](/images/empty_150.png)
+**![](/images/empty_150.png)**
 
 ##### THE SOLUTION
 
-### Designing a Dashboard
+### Designing comfortable to usable app
 
-I decided to design a dashboard that efficiently manages the controlling advertisements process employees in adding advertisements on each device quickly also, easy to control it. Simplify organizing total profit procedure can be brought about reducing the time.
+Most of the factory employees receive their work process in paper documents. Accordingly, I design an intuitive dashboard app that is comfortable to use for employees who are not familiar with the app system.
 
-![](/images/03_adknowva_thesoultion_02.gif)
+![](/images/heidi_app_solution.png)
 
 ![](/images/empty_150.png)
 
 ##### THE PROCESS
 
-### How it manages all advertisements and the profit would check clearly and simplify
+### Design that clearly appears only the features employees require
 
 My goal at ad Knowva was totally simplified to all control together on the dashboard.
 
