@@ -103,18 +103,16 @@ Design dashboard apps that employees a quick, at-a-glance look at what they requ
 
 ![](/images/empty_100.png)
 
-![](/images/final_01.gif)
+![](/images/heidi_app_final01.png)
 
 ![](/images/empty_100.png)
 
-![](/images/final_02.gif)
+![](/images/heidi_app_final02.png)
 
 ![](/images/empty_100.png)
 
-![](/images/final_03.gif)
+![](/images/heidi_app_final03.gif)
 
 ![](/images/empty_100.png)
 
-![](/images/final_04_2.gif)
-
-* 
+![](/images/heidi_app_final04.gif)
