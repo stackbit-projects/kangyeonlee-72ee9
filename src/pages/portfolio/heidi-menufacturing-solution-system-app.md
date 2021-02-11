@@ -99,7 +99,7 @@ My goal was that design an intuitive dashboard app that is comfortable to use fo
 
 ##### FINAL DESIGN
 
-In adKnowva admin, a developer can also manage advertisement information as well as merchant lists by adding clients and advertisements. As a result, developers and clients applied the same interaction flow and user interface solutions for profit management.
+Design dashboard apps that employees a quick, at-a-glance look at what they require most.
 
 ![](/images/empty_100.png)
 
