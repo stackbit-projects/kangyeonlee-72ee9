@@ -65,11 +65,9 @@ There are so many benefits of the process management system that it can be a ver
 
 I identified below things I could do to design Heidi official site.
 
-###### 1. Optimize the UI to help users quickly find each devices' advertisements of clients
+###### 1. Optimize the page design to help users quickly understand each business of Heidi
 
-###### 2. Update the layout improves administrators add each advertisement conveniently
-
-###### 3. Update the UI and visual style to improve the readability and brand identity
+###### 2. Update the UI and visual style to improve the readability and brand identity
 
 ![](/images/empty_150.png)
 
