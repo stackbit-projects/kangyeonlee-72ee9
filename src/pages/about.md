@@ -60,7 +60,7 @@ excerpt: ''
 <tr>  
 <td>Adobe Photoshop</td>  
 <td>Adobe illustrator</td>  
-<td>Adobe XD</td>  
+<td> </td>  
 </tr>  
 <tr>  
 <td>HTML5</td>  
