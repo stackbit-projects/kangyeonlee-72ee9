@@ -83,13 +83,19 @@ Most of the factory employees receive their work process in paper documents. Acc
 
 ### Design that clearly appears only the features employees require
 
-My goal at ad Knowva was totally simplified to all control together on the dashboard.
+My goal was that design an intuitive dashboard app that is comfortable to use for employees who are not familiar with the app system.
 
 ![](/images/empty_100.png)
 
-![](/images/process_01.png)
+**Story Board**
 
-![](/images/process_02.png)
+![](/images/heidi_app_process01.png)
+
+![](/images/heidi_app_process02.png)
+
+![](/images/heidi_app_process03.png)
+
+![](/images/heidi_app_process04.png)
 
 Advertisements size management can also be done, and ad exposure time and availability can also be managed.
 
