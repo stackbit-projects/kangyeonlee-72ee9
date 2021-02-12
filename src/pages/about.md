@@ -70,14 +70,14 @@ excerpt: ''
 <tr>  
 <td>Javascript</td>  
 <td>Java</td>  
-<td></td>  
+<td>Node.js</td>  
 </tr>  
 </tbody>  
 <tfoot>  
 <tr>  
-<td>Node.js</td>  
 <td>MySQL</td>  
 <td>C++</td>  
+<td></td>  
 </tr>  
 </tfoot>  
 </table>
