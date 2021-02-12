@@ -60,12 +60,17 @@ excerpt: ''
 <tr>  
 <td>Adobe Photoshop</td>  
 <td>Adobe illustrator</td>  
-<td> </td>  
+<td>Adobe Acrobat Reader</td>  
 </tr>  
 <tr>  
-<td>HTML5</td>  
+<td>Dreamweaver</td>  
+<td>HTML</td>  
 <td>CSS</td>  
+</tr>  
+<tr>  
 <td>Javascript</td>  
+<td>Java</td>  
+<td></td>  
 </tr>  
 </tbody>  
 <tfoot>  
