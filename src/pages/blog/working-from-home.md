@@ -1,6 +1,6 @@
 ---
 title: Art of Days
-date: 2020-11-01T04:00:00Z
+date: 2020-12-02T05:00:00Z
 thumb_image: "/images/kakaotalk_photo_2021-02-04-12-44-12.jpeg"
 image: ''
 excerpt: ''
