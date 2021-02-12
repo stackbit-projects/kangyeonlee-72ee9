@@ -1,14 +1,13 @@
 ---
 title: Wallpaper
 subtitle: Super Mario !
-date: 2020-07-01T04:00:00Z
-thumb_image: "/images/wallpaper_mario.png"
+date: '2019-11-01'
+thumb_image: /images/wallpaper_mario.png
 thumb_image_alt: mario_b_wallpaper
 image: ''
 image_alt: ''
 excerpt: ''
 template: post
-
 ---
 ![](/images/wallpaper01.png)
 
