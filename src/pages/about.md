@@ -77,7 +77,7 @@ excerpt: ''
 <tr>  
 <td>MySQL</td>  
 <td>C++</td>  
-<td></td>  
+<td> </td>  
 </tr>  
 </tfoot>  
 </table>
