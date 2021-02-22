@@ -60,24 +60,24 @@ excerpt: ''
 <tr>  
 <td>Adobe Photoshop</td>  
 <td>Adobe illustrator</td>  
-<td>Adobe XD / Sketchr</td>  
+<td>Sketch</td>  
 </tr>  
 <tr>  
-<td>Dreamweaver</td>  
+<td>Adobe XD</td>  
 <td>HTML</td>  
 <td>CSS</td>  
 </tr>  
 <tr>  
+<td>Dreamweaver</td>  
 <td>Javascript</td>  
-<td>Java</td>  
 <td>Node.js</td>  
 </tr>  
 </tbody>  
 <tfoot>  
 <tr>  
+<td>Java</td>  
 <td>MySQL</td>  
 <td>C++</td>  
-<td> </td>  
 </tr>  
 </tfoot>  
 </table>
