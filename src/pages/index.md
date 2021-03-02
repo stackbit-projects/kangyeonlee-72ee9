@@ -6,9 +6,6 @@ sections:
     template: section_hero
     title: 'Hello, I am Kangyeon Lee!'
     section_id: hero
-    content: >
-      I am a curious observer, obsessed with creation, teams' lubricant, and a
-      UI designer
     actions:
       - type: action
         template: action
