@@ -20,7 +20,7 @@ sections:
     title: ''
     section_id: latest-projects
     subtitle: ''
-    layout_style: tiles
+    layout_style: mosaic
     projects_number: 30
     view_all_label: ''
     view_all_url: ''
